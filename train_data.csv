@@ -1,0 +1,2313 @@
+ID,UTTERANCES,IOB SLOT TAGS
+0,who plays luke on star wars new hope,O O B_char O B_movie I_movie I_movie I_movie
+1,show credits for the godfather,O O O B_movie I_movie
+2,who was the main actor in the exorcist,O O O O O O B_movie I_movie
+3,find the female actress from the movie she's the man,O O O O O O O B_movie I_movie I_movie I_movie
+4,who played dory on finding nemo,O O B_char O B_movie I_movie
+5,who was the female lead in resident evil,O O O O O O B_movie I_movie
+6,who played guido in life is beautiful,O O B_char O B_movie I_movie I_movie
+7,who was the co-star in shoot to kill,O O O O O B_movie I_movie I_movie
+8,find the guy who plays charlie on charlie's angels,O O O O O B_char O B_movie I_movie
+9,cast and crew of movie the campaign,O O O O O B_movie I_movie
+10,cast and crew of the campaign,O O O O B_movie I_movie
+11,who plays in the movie the campaign,O O O O O B_movie I_movie
+12,who starred in the campaign,O O O B_movie I_movie
+13,who were the crew for the campaign,O O O O O B_movie I_movie
+14,who was the lead man in taxi driver,O O O O O O B_movie I_movie
+15,star of twilight,O O B_movie
+16,who stars in vulgaria,O O O B_movie
+17,what are the names of female actors who played in lost,O O O O O O O O O O B_movie
+18,can i see the set list and cast for life is beautiful,O O O O O O O O O B_movie I_movie I_movie
+19,cast and crew of life is beautiful,O O O O B_movie I_movie I_movie
+20,show cast and crew for the movie life is beautiful,O O O O O O O B_movie I_movie I_movie
+21,what's the cast for life is beautiful,O O O O B_movie I_movie I_movie
+22,who played in life is beautiful,O O O B_movie I_movie I_movie
+23,who played in life is beautiful,O O O B_movie I_movie I_movie
+24,who was in life is beautiful,O O O B_movie I_movie I_movie
+25,who were roberto benigni's costars on life is beautiful,O O O O O O B_movie I_movie I_movie
+26,i am looking for the actor that played in pretty women,O O O O O O O O O B_movie I_movie
+27,star of troy,O O B_movie
+28,who played robin in batman forever,O O B_char O B_movie I_movie
+29,find the male actor from dirty harry,O O O O O B_movie I_movie
+30,show me the actor of the ranam,O O O O O O B_movie
+31,rocky actor,B_movie O
+32,what actor played in the amazing spider man,O O O O B_movie I_movie I_movie I_movie
+33,who are the actors in captain america,O O O O O B_movie I_movie
+34,who starred in captain america,O O O B_movie I_movie
+35,who was in the movie captain america,O O O O O B_movie I_movie
+36,who were the cast members in the hobbist,O O B_movie O O O B_movie I_movie
+37,show me the actor of the movie varsham,O O O O O O O B_movie
+38,which female actors starred in hitch,O O O O O B_movie
+39,can i see the cast and crew for the movie in july,O O O O O O O O O O B_movie I_movie
+40,list cast and crew in july,O O O O B_movie I_movie
+41,who stars in in july,O O O B_movie I_movie
+42,who stars in in july,O O O B_movie I_movie
+43,roll credits for top gun,O O O B_movie I_movie
+44,show me the actor of the movie sirisiri muvva,O O O O O O O B_movie I_movie
+45,rocky 2 actor,B_movie I_movie O
+46,who is chewbakka,O O B_char
+47,who stared in i love lucy,O O O B_movie I_movie I_movie
+48,apollo thirteen cast members,B_movie I_movie O O
+49,can you tell me more about the cast and crew of the movie apollo thirteen,O O O O O O O O O O O O O B_movie I_movie
+50,cast and crew for apollo thirteen,O O O O B_movie I_movie
+51,castmembers of apollo thirteen,O O B_movie I_movie
+52,complete cast and crew of apollo thirteen,O O O O O B_movie I_movie
+53,find for information about the cast of appolo thirteen,O O O O O O O B_movie I_movie
+54,find info on the crew of apollo thirteen,O O O O O O B_movie I_movie
+55,give me more facts about the cast and crew of the movie apollo thirteen,O O O O O O O O O O O O B_movie I_movie
+56,i need to know in detail about the cast and crew of the movie apollo thirteen,O O O O O O O O O O O O O O B_movie I_movie
+57,i want to find information about the cast of apollo thirteen,O O O O O O O O O B_movie I_movie
+58,show me more information about the cast and crew of the movie apollo thirteen,O O O O O O O O O O O O B_movie I_movie
+59,what actors were in dirty dancing,O O O O B_movie I_movie
+60,show me the actors in captain america,O O O O O B_movie I_movie
+61,show me gilda's credits,O O B_movie O O
+62,i can't remember the lead guy in the avengers,O O O B_movie O O O B_movie I_movie
+63,show cast list for the avergers,O O O O B_movie I_movie
+64,who plays nemo in finding nemo,O O B_char O B_movie B_movie
+65,find cast and crew for the movie finding nemo,O O O O O O O B_movie I_movie
+66,show me the cast and crew for finding nemo,O O O O O O O B_movie I_movie
+67,show me the cast of finding nemo,O O O O O B_movie I_movie
+68,who are the main voices in finding nemo,O O O O O O B_movie I_movie
+69,who starred in finding nemo,O O O B_movie I_movie
+70,who stars in finding nemo,O O O B_movie I_movie
+71,who was the main character in men in black 3,O O O O O O B_movie I_movie I_movie I_movie
+72,can i see the credits for dirty dancing,O O O O O O B_movie I_movie
+73,cast of dirty dancing,O O B_movie I_movie
+74,find cast and crew for dirty dancing,O O O O O B_movie I_movie
+75,search cast and crew for dirty dancing,O O O O O B_movie I_movie
+76,search for the cast and crew for the movie dirty dancing,O O O O O O O O O B_movie I_movie
+77,show me the cast and list for dirty dancing,O O O O O O O B_movie I_movie
+78,who starred in dirty dancing,O O O B_movie I_movie
+79,who starred in dirty dancing,O O O B_movie I_movie
+80,who were the stars of dirty dancing,O O O O O B_movie I_movie
+81,who was the male star of titanic,O O O O O O B_movie
+82,who starred in taxi,O O O B_movie
+83,who played in the oranges,O O O B_movie I_movie
+84,actors for life is beautiful,O O B_movie I_movie I_movie
+85,who are the lead actors in life is beautiful,O O O O O O B_movie I_movie I_movie
+86,find the male actor from the movie born free,O O O O O O O B_movie I_movie
+87,actor from iron man,O O B_movie I_movie
+88,shows actors in shoot to kill,O O O B_movie I_movie I_movie
+89,which actors starred in hitch,O O O O B_movie
+90,who are all of the actors in hitch,O O O O O O O B_movie
+91,who was the lead actor in hitch,O O O O O O B_movie
+92,who starred in dark knight rising,O O O B_movie I_movie I_movie
+93,who played nick fury in the avengers,O O B_char I_char O B_movie I_movie
+94,who was the lead actor in the avengers,O O O O O O B_movie I_movie
+95,what was the cast of black swan,O O O O O B_movie I_movie
+96,who acted in black swan,O O O B_movie I_movie
+97,who was in black swan,O O O B_movie I_movie
+98,who was the lead in black swan,O O O O O B_movie I_movie
+99,actors in star wars four,O O B_movie I_movie I_movie
+100,what was the actor who played esme in twilight,O O O O O O B_char O B_movie
+101,who played esme in twilight,O O B_char O B_movie
+102,who starred in the parent trap,O O O B_movie I_movie I_movie
+103,cast and crew for hitch,O O O O B_movie
+104,cast and crew of hitch,O O O O B_movie
+105,cast hitch,O B_movie
+106,hitch crew,B_movie O
+107,list cast hitch,O O B_movie
+108,show me hitch's cast,O O B_movie O O
+109,show the cast of hitch,O O O O B_movie
+110,what actors appeared in the movie hitch,O O O O O O B_movie
+111,what actors played in the movies hitch,O O O O O O B_movie
+112,what was the cast of hitch,O O O O O B_movie
+113,who starred in hitch,O O O B_movie
+114,who starred in the movie hitch,O O O O O B_movie
+115,who stars in hitch,O O O B_movie
+116,who was in hitch,O O O B_movie
+117,who was in the movie hitch,O O O O O B_movie
+118,who was the star in hitch,O O O O O B_movie
+119,voice actor for homer simpson,O O O B_char I_char
+120,who is in the movie two can play that game,O O O O O B_movie I_movie I_movie I_movie I_movie
+121,actress from gone with the wind,O O B_movie I_movie I_movie I_movie
+122,who are the lead actors in this movie,O O O O O O O O
+123,show me information on the cast and crew of pitchperfect,O O O O O O O O O B_movie
+124,actors in house at the end of the street,O O B_movie I_movie I_movie I_movie I_movie I_movie I_movie
+125,can i see the cast and crew for house at the end of the street,O O O O O O O O B_movie I_movie I_movie I_movie I_movie I_movie I_movie
+126,cast and crew for house at the end of the street,O O O O B_movie I_movie I_movie I_movie I_movie I_movie I_movie
+127,cast and crew for the movie house at the end of the street,O O O O O O B_movie I_movie I_movie I_movie I_movie I_movie I_movie
+128,who stars on the house at the end of the street,O O O O B_movie I_movie I_movie I_movie I_movie I_movie I_movie
+129,who is in movie,O O O O
+130,who is in movie,O O O O
+131,who is in movie,O O O O
+132,who acts in forager,O O O B_movie
+133,who stars in forager,O O O B_movie
+134,who is the cast and crew for now forager,O O O O O O O O B_movie
+135,who was in now,O O O B_movie
+136,actor from modern family,O O B_movie I_movie
+137,list the actors in forager,O O O O B_movie
+138,cast and crew of go,O O O O B_movie
+139,who starred in go,O O O B_movie
+140,who was the lead actress in the hunger games,O O O O O O B_movie I_movie I_movie
+141,show cast of movie request,O O O O B_movie
+142,what is the cast in resident evil retribution,O O O O O B_movie I_movie I_movie
+143,list me the actors for top gun,O O O O O B_movie I_movie
+144,who was the tin man in wizard of oz,O O O B_char I_char O B_movie I_movie I_movie
+145,actress in hum tum,O O B_movie I_movie
+146,who was the actor in movie hum tum,O O O O O O B_movie I_movie
+147,who is in barfi,O O O B_movie
+148,who was the lead woman in the savages,O O O O O O B_movie I_movie
+149,find the name of the actor who played jack in the movie titanic,O O O O O O O O B_char O O O B_movie
+150,the name of the male lead in the movie titanic,O O O O O O O O O B_movie
+151,what is the name of the lead actor in the titanic,O O O O O O O O O O B_movie
+152,show me who played what role in go,O O O O O O O B_movie
+153,i cannot remember the name of the actor in pretty women,O O O O O O O O O B_movie I_movie
+154,what is the name of the actor who was in the parent trap,O O O O O O O O O O B_movie I_movie I_movie
+155,find name of main actor in the movie the help,O O O O O O O O B_movie I_movie
+156,looking for names of crew members of apollo thirteen,O O O O O O O B_movie I_movie
+157,i can't figure out the name of the lead guy in the avengers,O O O O O O O O O O O O B_movie I_movie
+158,what were the names of the ladies in facts of life,O O O O O O O O B_movie I_movie I_movie
+159,how old is steven spielberg,O O O B_person I_person
+160,when steven spielberg born,O B_person I_person O
+161,what is tom cruise's birthday,O O B_person I_person O O
+162,when was tom cruise born,O O B_person I_person O
+163,when is will ferrell's birthday,O O B_person I_person O O
+164,how old is kristen stewart,O O O B_person I_person
+165,how much did it cost to produce the dark night,O O O O O O O B_movie I_movie I_movie
+166,how much did the dark night cost to produce,O O O B_movie I_movie I_movie O O O
+167,what was the dark night budget,O O B_movie I_movie I_movie O
+168,the godfather's budget,B_movie I_movie O O
+169,budget for the blind side,O O B_movie I_movie I_movie
+170,i want to look up the budget of freedom writers,O O O O O O O O B_movie I_movie
+171,i would like to look up the budget of freedom writers,O O O O O O O O O B_movie I_movie
+172,look for the budget of freedom writers,O O O O O B_movie I_movie
+173,how much was hunger games made for,O O O B_movie I_movie O O
+174,how much was the budget for the hunger games,O O O O O O B_movie I_movie I_movie
+175,how much did black swan cost,O O O B_movie I_movie O
+176,how much did hollywood pay for black swan,O O O O O O B_movie I_movie
+177,what was the budget for black swan,O O O O O B_movie I_movie
+178,what were production costs for black swan,O O O O O B_movie I_movie
+179,what was the budget for wrong turn,O O O O O B_movie I_movie
+180,search for the budget of step up,O O O O O B_movie I_movie
+181,budget for titanic,O O B_movie
+182,budget for titanic,O O B_movie
+183,budget for titanic movie,O O B_movie O
+184,how much did titanic cost to make,O O O B_movie O O O
+185,how much was the total budget for the titanic,O O O O O O O O B_movie
+186,what was titanic's budget,O O B_movie O O
+187,what was the budget for courageous,O O O O O B_movie
+188,what was the budget for facing the giants,O O O O O B_movie I_movie I_movie
+189,budget of heroine,O O B_movie
+190,finding the buget of heroine,O O O O B_movie
+191,looking of movie heroine's budget,O O O B_movie O O
+192,what is the buget of movie heroine,O O O O O O B_movie
+193,how much did it cost to make jurassic park,O O O O O O O B_movie I_movie
+194,what was the budget for jurassic park,O O O O O B_movie I_movie
+195,how much did james cameron have to spend to make avatar,O O O B_director I_director O O O O O B_movie
+196,avatar must have cost a bundle,B_movie O O O O O
+197,did the avatar movie have a budget for spending,O O B_movie O O O O O O
+198,get me info on the budget for avatar,O O O O O O O B_movie
+199,how much did it cost to make avatar,O O O O O O O B_movie
+200,how much did the studio spend to make avatar,O O O O O O O O B_movie
+201,how much money was budgeted for the avatar movie,O O O O O O O B_movie O
+202,i need to know the budget of the movie avatar,O O O O O O O O O B_movie
+203,i want to know the avatar's budget,O O O O O O B_movie O
+204,list the budget for avatar,O O O O B_movie
+205,show me what was the budget of the movie avatar,O O O O O O O O O B_movie
+206,what did the movie avatar cost to make,O O O O B_movie O O O
+207,what was avatar's budget,O O O B_movie O
+208,what was the budget for avatar,O O O O O B_movie
+209,what was the budget for avatar,O O O O O B_movie
+210,what was the budget for avatar,O O O O O B_movie
+211,what was the budget for the movie avatar,O O O O O O O B_movie
+212,what was the budget of the movie avatar,O O O O O O O B_movie
+213,how much did the movie avatar cost,O O O O O B_movie O
+214,how much money was spent on batman,O O O O O O B_movie
+215,tell me the budget for the movie batman,O O O O O O O B_movie
+216,how much did batman begins cost,O O O B_movie I_movie O
+217,how much was it to make the film batman begins,O O O O O O O O B_movie I_movie
+218,budget for the avengers,O O B_movie I_movie
+219,how much did it take to make the avengers,O O O O O O O B_movie I_movie
+220,what was the budget for the avengers,O O O O O B_movie I_movie
+221,what was the budget for citizen kane,O O O O O B_movie I_movie
+222,find out the budget of cujo,O O O O O B_movie
+223,budget for gone with the wind,O O B_movie I_movie I_movie I_movie
+224,gone with the wind's budget information please,B_movie I_movie I_movie I_movie O O O O
+225,gone with the wind's budget,B_movie I_movie I_movie I_movie O O
+226,show me the budget for the movie,O O O O O O O
+227,budget for the hulk,O O O B_movie
+228,budget request for my big fat greek wedding,O O O B_movie I_movie I_movie I_movie I_movie
+229,find the budget of my big fat greek wedding,O O O O B_movie I_movie I_movie I_movie I_movie
+230,how much did my big fat greek wedding cost,O O O B_movie I_movie I_movie I_movie I_movie O
+231,what was the budget of my big fat greek wedding,O O O O O B_movie I_movie I_movie I_movie I_movie
+232,what was the budget for old school,O O O O O B_movie I_movie
+233,what was the bourne identity's budget,O O B_movie I_movie I_movie O O
+234,how much did it cost to produce the deer hunter,O O O O O O O B_movie I_movie I_movie
+235,provide the cost for producing the deer hunter,O O O O O B_movie I_movie I_movie
+236,will you show the cost to produce the deer hunter,O O O O O O O B_movie I_movie I_movie
+237,what was the budget for the hobbit,O O O O O B_movie I_movie
+238,can i see what the lion king's budget was,O O O O B_movie I_movie I_movie O O O
+239,show me the lion king's budget,O O B_movie I_movie I_movie O O
+240,what was the budget for passion of the christ,O O O O O B_movie I_movie I_movie I_movie
+241,what was the budget for top gun,O O O O O B_movie I_movie
+242,what was top gun's budget,O O B_movie I_movie O O
+243,who does ellen degeneres play in finding nemo,O O O O O O B_movie I_movie
+244,what character did tom hanks play in apollo thirteen,O O O O O O O B_movie I_movie
+245,lion king characters,B_movie I_movie O
+246,what character did will smith play in hitch,O O O O O O O B_movie
+247,what role did sarah polley play in go,O O O O O O O B_movie
+248,what was kevin james role in hitch,O O O O O O B_movie
+249,who directed the music in gone with the wind,O O O O O B_movie I_movie I_movie I_movie
+250,show me the music composer for the movie,O O O O O O O O
+251,who directed the musical score in barfi,O O O O O O B_movie
+252,how many films did ed harris do with tom hanks,O O O O B_person I_person O O B_person I_person
+253,how many movies were released on nine twenty eight twelve,O O O O O O B_release_year I_release_year I_release_year I_release_year
+254,how many movies were filmed in asia,O O O O O O B_location
+255,how many films directed by barbra streisand have been shot in the czech republic,O O O O O B_director I_director O O O O O B_country I_country
+256,how many movies has albert ruddy produced,O O O O B_producer I_producer O
+257,how many movies has lionsgate done,O O O O B_producer O
+258,how many movies did richard lester direct,O O O O B_director I_director O
+259,how many films has taye diggs been in,O O O O B_cast I_cast O O
+260,how many movies has ray stark produced,O O O O B_producer I_producer O
+261,how many producers did the movie the hitch have,O O O O O O O B_movie O
+262,how many movies has charles vidor directed,O O O O B_director I_director O
+263,how many movies has kristen stewart made,O O O O B_person I_person O
+264,i wonder how many movies alfred hitchcock was in that he directed,O O O O O B_director I_director O O O O O
+265,how many movies has steven spielberg directed,O O O O B_director I_director O
+266,how many films did robert wise direct,O O O O B_director I_director O
+267,how many movies has tom cruise starred in,O O O O B_cast I_cast O O
+268,how many movies did scorsese direct,O O O O B_director O
+269,how many movies has angelina jolie been in,O O O O B_cast I_cast O O
+270,how many movies did victor fleming direct,O O O O B_director I_director O
+271,how many movies has woody allen directed,O O O O B_director I_director O
+272,how many movies has darla anderson produced,O O O O B_producer I_producer O
+273,how many films did alfred hitchcock direct,O O O O B_director I_director O
+274,how many movies did hitchcock direct,O O O O B_director O
+275,how many movies has tom hanks starred in,O O O O B_cast I_cast O O
+276,how many woody allen movies starred diane keaton,O O B_director I_director O O B_cast I_cast
+277,how many films has ed harris starred in,O O O O B_cast I_cast O O
+278,how many movies are made in the united states,O O O O O O O B_country I_country
+279,where was footnote made,O O B_movie O
+280,what country did the flowers of war come from,O O O B_movie I_movie I_movie I_movie O O
+281,country of le havre,O O B_movie I_movie
+282,what country does the movie kati patang comes from,O O O O O B_movie I_movie O O
+283,show me the name of the country for the movie thoda pyaar thoda magic,O O O O O O O O O O B_movie I_movie I_movie I_movie
+284,can you tell me which country the movie kati patang comes from,O O O O O O O O B_movie I_movie O O
+285,i need to know the name of the country to which the movie kati patang belongs to,O O O O O O O O O O O O O B_movie I_movie O O
+286,show me the name of the country from which the movie kati patang comes,O O O O O O O O O O O B_movie I_movie O
+287,can you tell me which country does thoda pyaar thoda magic belongs to,O O O O O O O B_movie I_movie I_movie I_movie O O
+288,give me the name of the country for the movie thoda pyaar thoda magic,O O O O O O O O O O B_movie I_movie I_movie I_movie
+289,i need to know which country does the movie thoda pyaar thoda magic belongs to,O O O O O O O O O B_movie I_movie I_movie I_movie O O
+290,country that made a separation,O O O B_movie I_movie
+291,what country is godzilla,O O O B_movie
+292,country of weekend,O O B_movie
+293,i would like to search for what country cell 21 is from,O O O O O O O O B_movie I_movie O O
+294,look for what country cell 21 is from,O O O O B_movie I_movie O O
+295,what country is cell 21 from,O O O B_movie I_movie O
+296,what country did black beauty come from,O O O B_movie I_movie O O
+297,i need to know where trainspotting comes from,O O O O O B_movie O O
+298,tell me where is trainspotting from,O O O O B_movie O
+299,which country made elizabeth,O O O B_movie
+300,where was trainspotting made,O O B_movie O
+301,what country did shindler's list come from,O O O B_movie I_movie I_movie O O
+302,which country is this movie from,O O O O O O
+303,show me where black swan is from,O O O B_movie I_movie O O
+304,where was black swan produced,O O B_movie I_movie O
+305,what is the origin of casa blanca,O O O O O B_movie I_movie
+306,origin of gone with the wind,O O B_movie I_movie I_movie I_movie
+307,lion king filmed at,B_movie I_movie O O
+308,where was rocky four filmed,O O B_movie I_movie O
+309,origin of spanglish,O O B_movie
+310,movie made where,O O O
+311,what country is movie from,O O O O O
+312,in what country was movie made,O O O O O O
+313,where was movie made,O O O O
+314,is this a foreign film,O O O O O
+315,is this a foreign film,O O O O O
+316,what country was kinky boots made in,O O O B_movie I_movie O O
+317,what country is outside the law from,O O O B_movie I_movie I_movie O
+318,what country produced the movie mirror,O O O O O B_movie
+319,what country does mirror come from,O O O B_movie O O
+320,what country does les miserable come from,O O O B_movie I_movie O O
+321,what is the origin country of mirror,O O O O O O B_movie
+322,in what country was the movie mirror produced,O O O O O O B_movie O
+323,where was the movie mirror produced,O O O O B_movie O
+324,when can i see top gun,O O O O B_movie I_movie
+325,when was top gun released,O O B_movie I_movie O
+326,when does top gun come out,O O B_movie I_movie O O
+327,when the movie top gun was released,O O O B_movie I_movie O O
+328,when did richard lester start directing,O O B_director I_director O O
+329,when was in july released,O O B_movie I_movie O
+330,give me the release date for the little mermaid,O O B_movie O O O B_movie I_movie I_movie
+331,what date was spider released,O O O B_movie O
+332,can you tell me when 24 will be released,O O O O O B_movie O O O
+333,do you know when 24 will be released,O O O O B_movie O O O
+334,i want to know when 24 will be released,O O O O O B_movie O O O
+335,when will 24 be released,O O B_movie O O
+336,how will i know when the movie gone with the wind will be released,O O O O O O O B_movie I_movie I_movie I_movie O O O
+337,please tell me when was the movie gone with the wind released,O O O O O O O B_movie I_movie I_movie I_movie O
+338,please tell me when will the movie gone with the wind will be released,O O O O O O O B_movie I_movie I_movie I_movie O O O
+339,when will the movie gone with the wind be released,O O O O B_movie I_movie I_movie I_movie O O
+340,do you know when this movie is available,O O O O O O O O
+341,what year was the movie released,O O O O O O
+342,which decade did the movie come out,O O O O O O O
+343,which month was the movie released,O O O O O O
+344,release day for the movie,O O O O O
+345,may i have the date of release for this movie,O O O O O O O O O O
+346,release date for the vow,O O O B_movie I_movie
+347,when was black beauty released,O O B_movie I_movie O
+348,titanic release date,B_movie O O
+349,when did lionsgate start making movies,O O B_producer O O O
+350,search when the birds will be released,O O B_movie I_movie O O O
+351,what year did spielberg start directing movies,O O O B_director O O O
+352,the godfather came out when,B_movie I_movie O O O
+353,when can i see the great gatsby,O O O O B_movie I_movie I_movie
+354,when will the great gatsby be out,O O B_movie I_movie I_movie O O
+355,when will the great gatsby be released,O O B_movie I_movie I_movie O O
+356,when will jaws be released,O O B_movie O O
+357,when will the hobbit be released,O O B_movie I_movie O O
+358,what year was the hobbit relased,O O O B_movie I_movie O
+359,what year did the movie grease open,O O O O O B_movie O
+360,movie little women release date is when,O B_movie I_movie O O O O
+361,release date for little women,O O O B_movie I_movie
+362,when was the movie title little women released,O O O O O B_movie I_movie O
+363,can you please tell me when was karate kid released,O O O O O O O B_movie I_movie O
+364,karate kid release date,B_movie I_movie O O
+365,find release date for karate kid,O O O O B_movie I_movie
+366,when did dirty dancing come out,O O B_movie I_movie O O
+367,when was dirty dancing released,O O B_movie I_movie O
+368,what year was dirty dancing released,O O O B_movie I_movie O
+369,when was dirty dancing released,O O B_movie I_movie O
+370,when was overboard released,O O B_movie O
+371,what year did moon over parador come out,O O O B_movie I_movie I_movie O O
+372,release date for batman,O O O B_movie
+373,when did jurassic park get released,O O B_movie I_movie O O
+374,lion king release yr,B_movie I_movie O O
+375,when was while you were sleeping released,O O B_movie I_movie I_movie I_movie O
+376,what year was ed harris in in apollo thirteen,O O O O O O O B_movie I_movie
+377,what was the date when welcome to the dollhouse was released,O O O O O B_movie I_movie I_movie I_movie O O
+378,release date for toy story,O O O B_movie I_movie
+379,what was the relase date for men in black,O O O O O O B_movie I_movie I_movie
+380,when was life is beautiful released,O O B_movie I_movie I_movie O
+381,when was life is beautiful released,O O B_movie I_movie I_movie O
+382,when life is beautiful was released,O B_movie I_movie I_movie O O
+383,what is possessed realese date,O O B_movie O O
+384,look up the release date of resident evil,O O O O O O B_movie I_movie
+385,what is resident evil's release date,O O B_movie I_movie O O O
+386,when did resident evil come out,O O B_movie I_movie O O
+387,when did resident evil debut in theaters,O O B_movie I_movie O O O
+388,when did theaters show resident evil,O O O O B_movie I_movie
+389,when was the release date for the movie resident evil,O O O O O O O O B_movie I_movie
+390,when was resident evil first in theatres,O O B_movie I_movie O O O
+391,when was the scooby do movie released,O O O B_movie I_movie O O
+392,when was finding nemo released,O O B_movie I_movie O
+393,release date for finding nemo,O O O B_movie I_movie
+394,when was finding nemo released,O O B_movie I_movie O
+395,when was finding nemo released,O O B_movie I_movie O
+396,in which date varsham movie released,O O O B_movie O O
+397,in which month varsham movie released,O O O B_movie O O
+398,release twilight,O B_movie
+399,frankenstein release,B_movie O
+400,frankenstein release date,B_movie O O
+401,when will the movie frankenstein be released,O O O O B_movie O O
+402,when was hum tum relesed,O O B_movie I_movie O
+403,i want to know when step up was released,O O O O O B_movie I_movie O O
+404,i would like to know when the movie step up was released,O O O O O O O O B_movie I_movie O O
+405,when was step up released,O O B_movie I_movie O
+406,when was the movie step up released,O O O O B_movie I_movie O
+407,when did happiness get released,O O B_movie O O
+408,when will paranormal activity be released,O O B_movie I_movie O O
+409,avatar realease date,B_movie O O
+410,avatar release,B_movie O
+411,what was the release date for avatar,O O O O O O B_movie
+412,when did the movie avatar get released,O O O O B_movie O O
+413,when avatar released,O B_movie O
+414,when was avatar released,O O B_movie O
+415,i need to know when was the movie avatar released,O O O O O O O O B_movie O
+416,what day avatar released,O O B_movie O
+417,what was the release date of the movie avatar,O O O O O O O O B_movie
+418,when was avatar released,O O B_movie O
+419,what date was avatar released,O O O B_movie O
+420,when was black swan in the theatre,O O B_movie I_movie O O O
+421,when was black swan released,O O B_movie I_movie O
+422,how long has black swan been out,O O O B_movie I_movie O O
+423,find release date of the help,O O O O B_movie I_movie
+424,when can the help be released,O O B_movie I_movie O O
+425,tell me when compliance came out,O O O B_movie O O
+426,when is sinister hitting theaters,O O B_movie O O
+427,release date for the hunger games,O O O B_movie I_movie I_movie
+428,when was the first hunger games shown,O O B_movie O I_movie I_movie O
+429,when was avengers released,O O B_movie O
+430,when was lawless released,O O B_movie O
+431,release date of snow white and the huntsman,O O O B_movie I_movie I_movie I_movie I_movie
+432,release date for amazing spiderman,O O O B_movie I_movie
+433,when will the next amazing spiderman come out,O O O O B_movie I_movie O O
+434,when was the amazing spiderman released in the movie theatres,O O B_movie I_movie I_movie O O B_movie O O
+435,search for the release date of vulgaria,O O O O O O B_movie
+436,when did vulgaria come out,O O B_movie O O
+437,when was the movie vulgaria released,O O O O B_movie O
+438,what date did vulgaria open,O O O B_movie O
+439,when did dredd come out,O O B_movie O O
+440,what year was the godfather released,O O O O B_movie O
+441,release date for the watch,O O O B_movie I_movie
+442,when was paranorman be released,O O B_movie O O
+443,what year was the campaign released,O O O B_movie I_movie O
+444,when was the campaign released,O O B_movie I_movie O
+445,when was expendables 2 released,O O B_movie I_movie O
+446,when is the release date of resident evil: retribution,O O O O O O B_movie I_movie I_movie
+447,what is the calendar date release for looper,O O O O O O O B_movie
+448,i would like to know the release date of the movie barfi,O O O O O O O O O O O B_movie
+449,i need to know the release date of the movie barfi,O O O O O O O O O O B_movie
+450,what is the release date of the movie barfi,O O O O O O O O B_movie
+451,show me the release date of the movie barfi,O O O O O O O O B_movie
+452,find the release date for heroine,O O O O O B_movie
+453,please find the release date of heroine,O O O O O O B_movie
+454,what is the release date of heroine,O O O O O O B_movie
+455,when was herione released,O O B_movie O
+456,when was the movie heroine released,O O O O B_movie O
+457,when was house at the end of the street released,O O B_movie I_movie I_movie I_movie I_movie I_movie I_movie O
+458,when house at the end of the street showing,O B_movie I_movie I_movie I_movie I_movie I_movie I_movie O
+459,what is the release date for house at the end of the street,O O O O O O B_movie I_movie I_movie I_movie I_movie I_movie I_movie
+460,is iron man 3 in theatres yet,O B_movie I_movie I_movie O O O
+461,when is iron man 3 coming out,O O B_movie I_movie I_movie O O
+462,when will iron man 3 be out in movie theatres,O O B_movie I_movie I_movie O O O O O
+463,show me movies listed by directors,O O O O O O
+464,director for gone with the wind,O O B_movie I_movie I_movie I_movie
+465,show me the directors of gone with the wind,O O O O O B_movie I_movie I_movie I_movie
+466,who are the directors of gone with the wind,O O O O O B_movie I_movie I_movie I_movie
+467,who directed gone with the wind,O O B_movie I_movie I_movie I_movie
+468,who directed gone with the wind,O O B_movie I_movie I_movie I_movie
+469,who directed gone with the wind,O O B_movie I_movie I_movie I_movie
+470,who directed the movie,O O I_movie O
+471,show me details about the directors of gone with the wind,O O O O O O O B_movie I_movie I_movie I_movie
+472,who directed black swan,O O B_movie I_movie
+473,who's the director of pi,O O O O O B_movie
+474,who made batman the dark knight,O O O B_movie I_movie I_movie
+475,tell me about inception's director,O O O B_movie O O
+476,show me the director of the film the dark knight,O O O O O O O B_movie I_movie I_movie
+477,tell me the director of the film the dark knight,O O O O O O O B_movie I_movie I_movie
+478,who directed the movie the dark knight,O O O O B_movie I_movie I_movie
+479,who filmed the dark knight,O O B_movie I_movie I_movie
+480,who is the person that directed the film the dark knight,O O O O O O O O B_movie I_movie I_movie
+481,which director directed a hard day's night,O O O B_movie I_movie I_movie I_movie I_movie
+482,who directed a hard day's night,O O B_movie I_movie I_movie I_movie I_movie
+483,who directed a hard day's night,O O B_movie I_movie I_movie I_movie I_movie
+484,who directed hard days night,O O B_movie I_movie I_movie
+485,who directed cast away,O O B_movie I_movie
+486,show me the director of forest gump,O O O O O B_movie I_movie
+487,who was the director of forest gump,O O O O O B_movie I_movie
+488,who is director of sleepless in seattle,O O O O B_movie I_movie I_movie
+489,who directed the movie opening night,O O O O B_movie I_movie
+490,who directed the movie men in black 3,O O O O B_movie I_movie I_movie I_movie
+491,who was the director in men in black 3,O O O O O B_movie I_movie I_movie I_movie
+492,can you tell me the director of the titanic,O O O O O O O O B_movie
+493,director for titanic,O O B_movie
+494,who was the director of the movie titanic,O O O O O O O B_movie
+495,display director of the movie avengers,O O O O O B_movie
+496,director of the avengers,O O B_movie I_movie
+497,search director of the exorcist,O O O B_movie I_movie
+498,find the director for the social network,O O O O B_movie I_movie I_movie
+499,find the director of big,O O O O B_movie
+500,who is the director of ghost busters,O O O O O B_movie I_movie
+501,find the director for pretty woman,O O O O B_movie I_movie
+502,who made godzilla,O O B_movie
+503,rocky director,B_movie O
+504,who directed hope floats,O O B_movie I_movie
+505,avatar was directed by whom,B_movie O O O O
+506,director of avatar,O O B_movie
+507,which director directed avatar,O O O B_movie
+508,who did avatar,O O B_movie
+509,who directed avatar,O O B_movie
+510,who directed avatar,O O B_movie
+511,who directed avatar,O O B_movie
+512,who directed the film avatar,O O O O B_movie
+513,who directed the movie called avatar,O O O O O B_movie
+514,who made the movie avatar,O O O O B_movie
+515,who was the director of the movie avatar,O O O O O O O B_movie
+516,who directed star wars four,O O B_movie I_movie I_movie
+517,who directed the movie in july,O O O O B_movie I_movie
+518,who made steel magnolias,O O B_movie I_movie
+519,the silence of the lambs director,I_movie I_movie I_movie I_movie I_movie O
+520,director of the incredibles,O O B_movie I_movie
+521,gilda director,B_movie O
+522,list gilda director,O B_movie O
+523,search director for gilda,O O O B_movie
+524,search gilda director,O B_movie O
+525,the movie gilda director,O O B_movie O
+526,who directed gilda,O O B_movie
+527,who directed gilda,O O B_movie
+528,who directed gilda,O O B_movie
+529,who directed the movie gilda,O O O O B_movie
+530,goodfellas director,B_movie O
+531,who made field of dreams,O O B_movie I_movie I_movie
+532,who made the movie field of dreams,O O O O B_movie I_movie I_movie
+533,who made the movie field of dreams possible,O O O O B_movie I_movie I_movie O
+534,can i please see more details for the director of finding nemo,O O O O O O O O O O B_movie I_movie
+535,find the director for finding nemo,O O O O B_movie I_movie
+536,i want to know the director of finding nemo,O O O O O O O B_movie I_movie
+537,i want to know who directed finding nemo,O O O O O O B_movie I_movie
+538,show me finding nemo director,O O B_movie I_movie O
+539,who directed finding nemo,O O B_movie I_movie
+540,who directed finding nemo,O O B_movie I_movie
+541,who directed finding nemo,O O B_movie I_movie
+542,who directed finding nemo,O O B_movie I_movie
+543,who directed finding nemo,O O B_movie I_movie
+544,who directed finding nemo,O O B_movie I_movie
+545,who was the director of the film finding nemo,O O O O O O O B_movie I_movie
+546,who directed hitch,O O B_movie
+547,who made hitch,O O B_movie
+548,director for anne of green gables,O O B_movie I_movie I_movie I_movie
+549,search director of the movie platoon,O O O O O B_movie
+550,who was the director of movie varsham,O O O O O O B_movie
+551,who directed grizzly man,O O B_movie I_movie
+552,who directed to kill a mockingbird,O O B_movie I_movie I_movie I_movie
+553,who was the director of the movie e t,O O O O O O O B_movie I_movie
+554,find the director for et,O O O O B_movie
+555,who made et,O O B_movie
+556,who was the director of the movie jaws,O O O O O O O B_movie
+557,look up info about jurassic park's director,O O O O B_movie I_movie O O
+558,who directed jurassic park,O O B_movie I_movie
+559,who directed jurassic park,O O B_movie I_movie
+560,who directed jurassic park,O O B_movie I_movie
+561,old man director,B_movie I_movie O
+562,can you find out who directed the movie batman,O O O O O O O O B_movie
+563,can you tell me who is the director of batman,O O O O O O O O O B_movie
+564,who directed batman,O O B_movie
+565,who is the director of batman,O O O O O B_movie
+566,looper directors,B_movie O
+567,who directed the perfect storm,O O B_movie I_movie I_movie
+568,who directed dirty dancing,O O B_movie I_movie
+569,director for pride and prejudice,O O B_movie I_movie I_movie
+570,who directed the movie the thing called love,O O B_movie O B_movie I_movie I_movie I_movie
+571,director of twilight,O O B_movie
+572,twilight was directed by whom,B_movie O O O O
+573,who else directs zombie movies,O O O B_subject O
+574,director of hum tum,O O B_movie I_movie
+575,director of the movie hum tum,O O O O B_movie I_movie
+576,find the director of hum tum,O O O O B_movie I_movie
+577,look for the director of hum tum,O O O O O B_movie I_movie
+578,director of the cabin in the woods,O O B_movie I_movie I_movie I_movie I_movie
+579,i am interested in who directed cabin in the woods,O O O O O O B_movie I_movie I_movie I_movie
+580,show me who directed cabin in the woods,O O O O B_movie I_movie I_movie I_movie
+581,who directed the movie cabin in the woods,O O O O B_movie I_movie I_movie I_movie
+582,who directed soul surfer,O O B_movie I_movie
+583,who directed the sandlot,O O B_movie I_movie
+584,which director made a comedy,O O O O B_genre
+585,director of halloween,O O B_movie
+586,find the director of step up,O O O O B_movie I_movie
+587,search for the director of step up,O O O O O B_movie I_movie
+588,search for the director of step up,O O O O O B_movie I_movie
+589,i need to know who directed black swan,O O O O O O B_movie I_movie
+590,i want to look for the director of freedom writers,O O O O O O O O B_movie I_movie
+591,i would like to look for the director of freedom writers,O O O O O O O O O B_movie I_movie
+592,who directed the movie titanic,O O O O B_movie
+593,who was the director of the movie the mechanic,O O O O O O O B_movie I_movie
+594,find the director of mask,O O O O B_movie
+595,director of the hulk,O O O B_movie
+596,did robert wise direct the sound of music,O B_director I_director O B_movie I_movie I_movie I_movie
+597,was robert wise the only director of the sound of music,O B_director I_director O O O O B_movie I_movie I_movie I_movie
+598,who directed the sound of music,O O B_movie I_movie I_movie I_movie
+599,who directed the sound of music,O O B_movie I_movie I_movie I_movie
+600,who directed the sound of music,O O B_movie I_movie I_movie I_movie
+601,what director shot the 1st lord of the rings film,O O O O O B_movie I_movie I_movie I_movie O
+602,who directed return,O O B_movie
+603,who is the director of return,O O O O O B_movie
+604,search for the name of the director of return,O O O O O O O O B_movie
+605,what was the name of the director in men in black 3,O O O O O O O O B_movie I_movie I_movie I_movie
+606,what is the name of the director of the movie avengers,O O O O O O O O O O B_movie
+607,find the name of the director of chips,O O O O O O O B_movie
+608,name of director for house at the end of the street,O O O O B_movie I_movie I_movie I_movie I_movie I_movie I_movie
+609,name the director of sleepless in seattle,O O O O B_movie I_movie I_movie
+610,find name of director of the movie platoon,O O O O O O O B_movie
+611,get me the name of who directed the master,O O B_movie O O O O B_movie I_movie
+612,what is the director's name of lord of the rings,O O I_movie O O I_movie I_movie I_movie I_movie I_movie
+613,what is the name of the person who made et,O O O O O O O O O O
+614,rocky director's name,B_movie O O
+615,what type of movie is gilda,O O O O O B_movie
+616,what types of movies does lionsgate produce,O O O O O B_producer O
+617,what kind of movie is black swan,O O O O O B_movie I_movie
+618,what genre is the hunger games,O O O B_movie I_movie I_movie
+619,genre for transformers,O O B_movie
+620,what genre is looper,O O O B_movie
+621,what genre is the movie looper,O O O O O B_movie
+622,what genre is rambo,O O O B_movie
+623,what genre is the jaws movies,O O O O B_movie O
+624,can you tell me the genre for 1000 words,O O O O O O O B_movie I_movie
+625,i am interested in the genre for 1000 words,O O O O O O O B_movie I_movie
+626,what type of movie is parenthood,O O O O O B_movie
+627,give me the genre of the movie lawless,O O O O O O O B_movie
+628,what genre is the movie lawless,O O O O O B_movie
+629,what is the genre of the movie lawless,O O O O O O O B_movie
+630,what genre is the movie in july,O O O O O B_movie I_movie
+631,genre for gone with the wind,O O B_movie I_movie I_movie I_movie
+632,how is the movie classified,O O O O O
+633,what genre is the movie,O O O O O
+634,what is the movie category,O O O O O
+635,how would you describe the movie,O O O O O O
+636,type of movie,O O O
+637,what is the classification of movie,O O O O O O
+638,what is the genre for movie,O O O O O O
+639,what is the movie genre,O O O O O
+640,what kind of movie,O O O O
+641,what type of movie is this,O O O O O O
+642,i would like look up the genre step up is in,O O O O O O O B_movie I_movie O O
+643,search for the genre step up in,O O O O B_movie I_movie O
+644,what genre is step up in,O O O B_movie I_movie O
+645,what genre is calendar girls in,O O O B_movie I_movie O
+646,what is the genre for the patriot,O O B_movie O O B_movie I_movie
+647,what genre is network in,O O O B_movie O
+648,find out the genre for the movie rebel,O O O O O O O B_movie
+649,genre for the avengers,O O B_movie I_movie
+650,can you tell me what genre the movie avatar falls in,O O O O O O O O B_movie O O
+651,i need to know the genre of the movie avatar,O O O O O O O O O B_movie
+652,show me the genre of the movie avatar,O O O O O O O B_movie
+653,what genre is superman,O O O B_movie
+654,pretty girl movie genre,B_movie I_movie O O
+655,pretty girl what is the movie's genre,B_movie I_movie O O O O O O
+656,what genre is pretty girl,O O O B_movie I_movie
+657,what genre is the movie pretty girl,O O O O O B_movie I_movie
+658,find out what kind of movie grease is,O O O O O O B_movie O
+659,i d like to know the genre of the film grease,O O O O O O O O O O B_movie
+660,i would like to know the genre of grease,O O O O O O O O B_movie
+661,what kind of movie is grease,O O O O O B_movie
+662,find out the genre for the movie annamayya,O O O O O O O B_movie
+663,what movie category is friday the 13th,O O O O B_movie I_movie I_movie
+664,tell me what genre the tommyknockers is,O O O O B_movie I_movie O
+665,what genre is the hangover,O O O B_movie I_movie
+666,what catergory is ted in,O O O B_movie O
+667,what genre is ted considered,O O O B_movie O
+668,what type of movie is ted considered to be,O O O O O B_movie O O O
+669,genre for while you were sleeping,O O B_movie I_movie I_movie I_movie
+670,what genre is finding nemo,O O O B_movie I_movie
+671,which language is used in the movie,O O O O O O O
+672,language of sound of music,O I_movie I_movie I_movie I_movie
+673,what language is this film,O O O O O
+674,what are the different languages this movie come in,O O O O O O O O O
+675,what foreign language is spoken in movie,O O O O O O O
+676,what language is movie in,O O O O O
+677,what language is the movie in,O O O O O O
+678,what language is the movie in,O O O O O O
+679,language of anna karinia,O O B_movie I_movie
+680,language of godzilla movie,O O B_movie O
+681,language of hamlet,O O B_movie
+682,can you tell me the language of the movie hero,O O O O O O O O O B_movie
+683,i need to know what is the language of the movie hero,O O O O O O O O O O O B_movie
+684,tell me what is the language of the movie hero,O O O O O O O O O B_movie
+685,language of bullhead,O O B_movie
+686,what language is shindler's list in,O O O B_movie I_movie I_movie O
+687,what language did the characters speak in black swan,O O O O O O O B_movie I_movie
+688,what language is black swan,O O O B_movie I_movie
+689,please find what language the chaser is in,O O O O B_movie I_movie O O
+690,what language is the chaser in,O O O B_movie I_movie O
+691,look up what language the chaser is in,O O O O B_movie I_movie O O
+692,ondskan's language,B_movie O O
+693,what language is la havre in,O O O B_movie I_movie O
+694,what foreign language is the movie belle available to view in,O O O O O O B_movie O O O O
+695,what language can i watch the movie the professional,O O O O O O O B_movie I_movie
+696,what language is the professional in,O O O B_movie I_movie O
+697,how do they speak in the movie the professional,O O O O O O O B_movie I_movie
+698,what language is spoken in indochine,O O O O O B_movie
+699,language of the film revanche,O O O O B_movie
+700,what language was aguirre wrath of god in,O O O B_movie I_movie I_movie I_movie O
+701,what language is passion of the christ in,O O O B_movie I_movie I_movie I_movie O
+702,i want to know in what language was ju on filmed,O O O O O O O O B_movie I-movie O
+703,i want to know the original language of ju on,O O O O O O O O B_movie I_movie
+704,tell me the language of ju on,O O O O O B_movie I_movie
+705,what language is ju on on,O O O B_movie I_movie O
+706,what language is the movie elling in,O O O O O B_movie O
+707,language of a separation,O O B_movie I_movie
+708,what s the language of moscow does not believe in tears,O O O O O B_movie I_movie I_movie I_movie I_movie I_movie
+709,what is the language of the movie aankhen,O O O O O O O B_movie
+710,can you tell me the language of the movie aankhen,O O O O O O O O O B_movie
+711,what are the names of films produced by steven spielberg,O O O O O O O O B_producer I_producer
+712,can you tell me names of some movies by director martin scorsese,O O O O O O O O O O B_director I_director
+713,find movie titles,O O O
+714,what are the names of movies made in the united states,O O O O O O O O O B_country I_country
+715,i would like to know the names of all the movies which have been directed by james cameron,O O O O O O O O O O O O O O O O B_director I_director
+716,what are the titles of all the movies that george lucas produced,O O O O O O O O O B_producer I_producer O
+717,names of romantic indian films,O O B_genre B_country O
+718,can you show me names of some indian romantic movies,O O O O O O O B_country B_genre O
+719,i would like to know names of some indian movies,O O O O O O O O B_country O
+720,japanese movie titles,B_country O O
+721,can you give me names of some movies having pg thirteen rating,O O O O O O O O O B_mpaa_rating I_mpaa_rating O
+722,i would like to get names of some movies with pg thirteen rating,O O O O O O O O O O B_mpaa_rating I_mpaa_rating O
+723,show me names of some romantic movies having a pg thirteen rating,O O O O O B_genre O O O B_mpaa_rating I_mpaa_rating O
+724,what are the names of movies with zombies in them,O O O O O O O B_subject O O
+725,i need to know the names of all the movies produced by william packer,O O O O O O O O O O O O B_producer I_producer
+726,stephen king directed what movie,B_director I_director O O O
+727,what movies did stephen king direct,O O O B_director I_director O
+728,watch the last james cameron movie,O O O B_director I_director O
+729,find movies by release date,O O O O O
+730,show movie ratings,O O O
+731,movie ratings,O O
+732,richard lester produced what other movies,B_producer I_producer O O O O
+733,show me westerns,O O B_genre
+734,was kevin bacon in apollo thirteen,O B_cast I_cast O B_movie I_movie
+735,i need movie information for life is beautiful,O O O O O B_movie I_movie I_movie
+736,life is beautiful movie page,B_movie I_movie I_movie O O
+737,i want to know more about the movie life is beautiful,O O O O O O O O B_movie I_movie I_movie
+738,i would like info on the movie life is beautiful,O O O O O O O B_movie I_movie I_movie
+739,please show me info on the movie life is beautiful,O O O O O O O B_movie I_movie I_movie
+740,search for the movie life is beautiful,O O O O B_movie I_movie I_movie
+741,what are the particulars for the movie life is beautiful,O O O O O O O B_movie I_movie I_movie
+742,can i see more info the movie life is beautiful,O O O O O O O B_movie I_movie I_movie
+743,can you show me info on the movie life is beautiful please,O O O O O O O O B_movie I_movie I_movie O
+744,display information for the movie life is beautiful,O O O O O B_movie I_movie I_movie
+745,find movies about dancing,O O O B_subject
+746,i want to look up movies about dancing,O O O O O O O B_subject
+747,look up movies about dancing,O O O O B_subject
+748,search for movies about dancing,O O O O B_subject
+749,give me a list of will ferrell films,O O O O O B_person I_person O
+750,i want to see any movies will ferrell has been in,O O O O O O B_cast I_cast O O O
+751,i would like to see will ferrell movies,O O O O O B_person I_person O
+752,list will ferrell films,O B_person I_person O
+753,movies will ferrell played in,O B_cast I_cast O O
+754,what are some films will ferrell starred in,O O O O B_cast I_cast O O
+755,what movies has will ferrell been in,O O O B_cast I_cast O O
+756,what movies is will ferrell in,O O O B_cast I_cast O
+757,will ferrell films,B_person I_person O
+758,will ferrell movies,B_person I_person O
+759,will ferrell movies,B_person I_person O
+760,will ferell videos,B_person I_person O
+761,i want to see videos of will ferrell,O O O O O O B_person I_person
+762,all videos of will ferrell,O O O B_person I_person
+763,can you find me movies in russian,O O O O O O B_language
+764,where can i find movies in russian,O O O O O O B_language
+765,find russian movies,O B_country O
+766,find russian movies,O B_country O
+767,search for russian movies,O O B_country O
+768,show me movies from poland,O O O O B_country
+769,i would like to see a polish language film,O O O O O O B_language I_language O
+770,i am interested in watching a movie in polish,O O O O O O O O B_language
+771,i want to see a polish movie,O O O O O O O
+772,list some funny russian movies,O O O O O
+773,i am looking for the information on the movie pretty women,O O O O O O O O O B_movie I_movie
+774,list of barry sonnenfeld films,O O B_director I_director O
+775,find martin scorsese films,O B_director I_director O
+776,i want to see a movie which was directed by scorsese,O O O O O O O O O O B_director
+777,show all movies directed by martin scorcese,O O O O O B_director I_director
+778,movies with meg ryan,O O B_cast I_cast
+779,gross earnings for movies,O O O O
+780,i want to watch movies directed by jackie chan,O O O O O O O B_director I_director
+781,star wars,B_movie I_movie
+782,what are the plots of hotel rwanda,O O O O O B_movie I_movie
+783,tim burton movies,B_director I_director O
+784,bings movie page finding nemo,O O O B_movie I_movie
+785,display information for film finding nemo,O O O O B_movie I_movie
+786,finding nemo movie shortcut,B_movie I_movie O O
+787,whats some details for the movie finding nemo,O O O O O O B_movie I_movie
+788,show all details of original finding nemo movie,O O O O O B_movie I_movie O
+789,get details of original finding nemo movie,O O O O B_movie I_movie O
+790,finding nemo movie page,B_movie I_movie O O
+791,find movie finding nemo,O O B_movie I_movie
+792,display all details of original finding nemo movie,O O O O O B_movie I_movie O
+793,find all details of original finding nemo movie,O O O O O B_movie I_movie O
+794,what has andrew stanton directed,O O B_director I_director O
+795,what movies has andrew stanton directed,O O O B_director I_director O
+796,what did lee unkrich direct,O O B_director I_director O
+797,i would like to see a movie with albert brooks in it,O O O O O O O O B_cast I_cast O O
+798,find me films produced by drew barrymore,O O O O O B_producer I_producer
+799,what movies that clint eastwood starred in did he also direct,O O O B_director I_director O O O O O O
+800,what movies did clint eastwood direct and star in,O O O B_director I_director O O O O
+801,i want to watch a movie by sergio leone,O O O O O O O B_director I_director
+802,show sergio leone's movies,O B_director I_director O O
+803,show me movies directed by sergio leone,O O O O O B_director I_director
+804,movies that have been directed by tony scott,O O O O O O B_director I_director
+805,show me movies from brazil,O O O O B_country
+806,show me horror movie earnings,O O B_genre O O
+807,movies with harrison ford,O O B_cast I_cast
+808,show me only movies with harrison ford,O O O O O B_cast I_cast
+809,name the movies clive owen has been in,O O O B_cast I_cast O O O
+810,what movies has clive owen been in,O O O B_cast I_cast O O
+811,what movies has clive owen starred in,O O O B_cast I_cast O O
+812,find ms. congeniality,O B_movie I_movie
+813,find spike lee directed movies,O B_director I_director O O
+814,what movies did spike lee direct,O O O B_director I_director O
+815,movies cecil b demille,O B_person I_person I_person
+816,i want to see a comedy in spanish,O O O O O B_genre O B_language
+817,find films,O O
+818,find films,O O
+819,find movies,O O
+820,in search for movies,O O O O
+821,looking for movies,O O O
+822,find a movie,O O O
+823,are there movies not rated g,O O O O O B_mpaa_rating
+824,i don't want any g rated movies,O O O O O B_mpaa_rating O O
+825,can you find some drama movies,O O O O B_genre O
+826,i'd like to watch something with drama,O O O O O O B_genre
+827,looking for a drama movie,O O O B_genre O
+828,show me a list of movies in english,O O O O O O O B_language
+829,show me english movies,O O B_language O
+830,find english movies,O B_language O
+831,can i get a list of movies available in english,O O O O O O O O O B_language
+832,show me movies in english,O O O O B_language
+833,i would like to see movies in english,O O O O O O O B_language
+834,movies in english,O O B_language
+835,show me a list of all movies made in the united states,O O O O O O O O O O B_country I_country
+836,what are all movies made by united states,O O O O O O B_country I_country
+837,what movies have been made in the united states,O O O O O O O B_country I_country
+838,movies from the us,O O O B_country
+839,what are all of the movies made in usa,O O O O O O O O B_country
+840,i want to see movies made in america,O O O O O O O B_country
+841,show me a list of movies made in america,O O O O O O O O B_country
+842,show me movies made in america,O O O O O B_country
+843,please tell me if you have any movies from the united states,O O O O O O O O O O B_country I_country
+844,movies from the us,O O O B_country
+845,please tell me about movies from the usa,O O O O O O O B_country
+846,english movie list,B_language O O
+847,show me thrillers,O O B_genre
+848,show me thrillers,O O B_genre
+849,show me comedies,O O B_genre
+850,looking for a comedy movie,O O O B_genre O
+851,see comedy,O B_genre
+852,show me comedy movies,O O B_genre O
+853,show me funny movies,O O B_genre O
+854,movies that have comedy,O O O B_genre
+855,can you show me a list of scary movies,O O O O O O O B_genre O
+856,i am in the mood for a horror film,O O O O O O O B_genre O
+857,looking for a horror movie,O O O B_genre O
+858,search for horror movies,O O B_genre O
+859,show me horror movies,O O B_genre O
+860,show only horror movies,O O B_genre O
+861,show me a list of scary movies,O O O O O B_genre O
+862,i want to see a list of scary movies,O O O O O O O B_genre O
+863,funny scary movies,B_genre I_genre O
+864,movies by producer,O O O
+865,find movies by producer,O O O O
+866,movies with bruce willis,O O B_cast I_cast
+867,clint eastwood movies,B_person I_person O
+868,find movies from canada,O O O B_country
+869,get me canadian movies,O O B_country O
+870,show me movies from canada,O O O O B_country
+871,look up information about canadian movies,O O O O B_country O
+872,get movies from canada,O O O B_country
+873,show me a list of any movies made in canada,O O O O O O O O O B_country
+874,find movies filmed in canada,O O O O B_country
+875,get films made in canada,O O O O B_country
+876,show me canadian films,O O B_country O
+877,show me canadian movies,O O B_country O
+878,are there any canadian movies,O O O B_country O
+879,are there any canadian movies,O O O B_country O
+880,find canadian films,O B_country O
+881,what are some movies made outside the us,O O O O O O O B_country
+882,movies from germany,O O B_country
+883,i want to watch movies from germany,O O O O O O B_country
+884,display movies made in germany,O O O O B_country
+885,find movies done in germany,O O O O B_country
+886,what movies do you have that were made in italy,O O O O O O O O O B_country
+887,movies from italy,O O B_country
+888,does italy make any movies,O B_country O O O
+889,find italian movies,O B_country O
+890,italian films,B_country O
+891,italian movies,B_country O
+892,show me italian movies,O O B_country O
+893,get all italian language movies,O O B_language I_language O
+894,send me movies that are in italian,O O O O O O B_language
+895,movies with italian language,O O B_language I_language
+896,show me movies in italian,O O O O B_language
+897,what movies are in italian,O O O O B_language
+898,search for movies in italian,O O O O B_language
+899,find movies in italian,O O O B_language
+900,a list of all italian speaking movies,O O O O B_language O O
+901,give me a list of movies from spain,O O O O O O O B_country
+902,see movies from spain,O O O B_country
+903,movies from spain,O O B_country
+904,movies from spain,O O B_country
+905,i want to see movies from spain,O O O O O O B_country
+906,movies made in spain,O O O B_country
+907,are there any movies made in spain,O O O O O O B_country
+908,bring up spanish movies,O O B_language O
+909,can you show me movies spanish,O O O O O B_language
+910,can you show me spanish movies,O O O O B_language O
+911,find spanish movies,O B_language O
+912,find spanish movies,O B_language O
+913,get me spanish movies,O O B_language O
+914,I'd like a list of spanish movies,O O O O O B_language O
+915,I'd like to know some spanish movies,O O O O O B_language O
+916,i want only spanish movies,O O O B_language O
+917,i want to look up spanish movies,O O O O O B_language O
+918,list spanish movies,O B_language O
+919,list spanish movies,O B_language O
+920,look for spanish movies,O O B_language O
+921,search for spanish movies,O O B_language O
+922,search for spanish movies,O O B_language O
+923,show me spanish movies,O O B_language O
+924,spanish movie listing,B_language O O
+925,spanish movies,B_language O
+926,find romance movies,O B_genre O
+927,give me a list of romance movies,O O O O O B_genre O
+928,find me romantic movies,O O B_genre O
+929,i want to find romantic movies,O O O O B_genre O
+930,locate romantic movies for me,O B_genre O O O
+931,list some movies that are in french,O O O O O O B_language
+932,find french language movies,O B_language I_language O
+933,find movies in french,O O O B_language
+934,find movies is french,O O O B_language
+935,list movies in french,O O O B_language
+936,look for movies in french,O O O O B_language
+937,search for movies in french,O O O O B_language
+938,search for movies in french,O O O O B_language
+939,show me movies produced in french,O O O O O B_language
+940,show movies in french,O O O B_language
+941,show only movies that are in french,O O O O O O B_language
+942,find french language movies,O B_language I_language O
+943,list of all french speaking films,O O O B_language O O
+944,list of french language movies,O O B_language I_language O
+945,show me movies in french,O O O O B_language
+946,can you list movies in french,O O O O O B_language
+947,find all films showing in french,O O O O O B_language
+948,show me a list of all the movies produced by william packer,O O O O O O O O O O B_producer I_producer
+949,information about movie,O O O
+950,show me information about movie,O O O O O
+951,show me information on movie,O O O O O
+952,tell me about movie,O O O O
+953,please show me all of the films that involve kevin bacon,O O O O O O O O O B_person I_person
+954,i want movies about 9-11,O O O O B_subject
+955,what other movies has bill paxton starred in,O O O O B_cast I_cast O O
+956,find some suspenseful movies,O O B_genre O
+957,a movie based on time travel,O O O O B_subject I_subject
+958,find time travel movies,O B_subject I_subject O
+959,give me a list of time travel movies,O O O O O B_subject I_subject O
+960,movies about time travel,O O B_subject I_subject
+961,show me movies about time travel,O O O O B_subject I_subject
+962,show me movies with time travel themes,O O O O B_subject I_subject O
+963,show me time travel movies,O O B_subject I_subject O
+964,show videos about time travel,O O O B_subject I_subject
+965,time travel movies,B_subject I_subject O
+966,what are movies whose topic involves time travel,O O O O O O B_subject I_subject
+967,movies about time travel,O O B_subject I_subject
+968,movies about time travel,O O B_subject I_subject
+969,show me movies about time travel,O O O O B_subject I_subject
+970,show me movies about time travel,O O O O B_subject I_subject
+971,show me some movies that are related to time travel,O O O O O O O O B_subject I_subject
+972,what are some movies that involve time travel,O O O O O O B_subject I_subject
+973,what movies discuss time travel,O O O B_subject I_subject
+974,quentin tarrantino movies,B_director I_director O
+975,what movies did quentin terrantino direct,O O O B_director I_director O
+976,list the movies anna paquin has starred in,O O O B_cast I_cast O O O
+977,movies from england,O O B_country
+978,movies from england,O O B_country
+979,movies from england please,O O B_country O
+980,show me england movies,O O B_country O
+981,show me movies from england,O O O O B_country
+982,show me movies made in england,O O O O O B_country
+983,find movies directed by chris columbus,O O O O B_director I_director
+984,what other movies has richard lester directed,O O O O B_director I_director O
+985,search for movies by language,O O O O O
+986,mandarin movie please,B_language O O
+987,please find a movie in mandarin,O O O O O B_language
+988,movie made in mandarin,O O O B_language
+989,which movies are originally in a foreign language,O O O O O O O O
+990,find me tamil movies,O O B_language O
+991,show me the latest movies in tamil,O O O O O O B_language
+992,find hindi movies,O B_language O
+993,find movies in hindi,O O O B_language
+994,list the hindi movies,O O B_language O
+995,what is hindi,O O B_language
+996,i would like to get a list of movie names in hindi language,O O O O O O O O O O O B_language I_language
+997,what films are not spoken in english,O O O O O O B_language
+998,what movies are spoken in another language,O O O O O O O
+999,i want to watch a romance made in india,O O O O O B_genre O O B_country
+1000,i need to get a list of some romantic indian movies,O O O O O O O O B_genre I_country O
+1001,find movies from india,O O O B_country
+1002,look up movies from india,O O O O B_country
+1003,see movies from india,O O O B_country
+1004,find indian movies,O B_country O
+1005,give me a list of some indian movies,O O O O O O B_country O
+1006,brian de palma movies,B_director I_director I_director O
+1007,complete list of movies made by searchlight films,O O O O O O B_producer O
+1008,list movies by searchlight films,O O O B_producer O
+1009,list of movies produced by searchlight films,O O O O O B_producer O
+1010,what are some movies made by searchlight films,O O O O O O B_producer O
+1011,movies about bank robberies,O O B_subject I_subject
+1012,show me sarah polley movies,O O B_person I_person O
+1013,show me french r rated dramas,O O B_language B_mpaa_rating O B_genre
+1014,list french language comedy films,O B_language I_language B_genre O
+1015,show french comedy films,O B_language B_genre O
+1016,what are some movies that were produced in europe,O O O O O O O O B_country
+1017,films produced by laurie macdonald,O O O B_producer I_producer
+1018,find me dreamworks films,O O B_producer O
+1019,movie by dreamworks,O O B_producer
+1020,movie made by dreamworks,O O O B_producer
+1021,what movies are made by dreamworks,O O O O O B_producer
+1022,i'm looking for the cost of some movies,O O O O O O O O
+1023,what movies did kevin costner direct,O O O B_director I_director O
+1024,dirty dancing movie,B_movie I_movie O
+1025,dirty dancing movie short cuts,B_movie I_movie O O O
+1026,show me the dirty dancing movie,O O O B_movie I_movie O
+1027,will you please show me info on the movie dirty dancing,O O O O O O O O O B_movie I_movie
+1028,find the movie dirty dancing,O O O B_movie I_movie
+1029,get me info for the movie dirty dancing,O O O O O O B_movie I_movie
+1030,i need to get every possible information related with the movie dirty dancing,O O O O O O O O O O O B_movie I_movie
+1031,i want to see infomation on the movie dirty dancing,O O O O O O O O B_movie I_movie
+1032,i would like to get all the information about the movie dirty dancing,O O O O O O O O O O O B_movie I_movie
+1033,please show me info on the movie dirty dancing,O O O O O O O B_movie I_movie
+1034,show me all the information about the movie dirty dancing like story reviews cast etc,O O O O O O O O B_movie I_movie O O O O O
+1035,show me info on the movie dirty dancing please,O O O O O O B_movie I_movie O
+1036,show me information for the movie dirty dancing,O O O O O O B_movie I_movie
+1037,show me more details for the movie dirty dancing,O O O O O O O B_movie I_movie
+1038,can you please show me info on the movie dirty dancing,O O O O O O O O O B_movie I_movie
+1039,can you tell me about the movie dirty dancing in detail,O O O O O O O B_movie I_movie O O
+1040,what films has robert redford directed,O O O B_director I_director O
+1041,i want to see a robert redford produced movie,O O O O O B_producer I_producer O O
+1042,i would like to see something produced by robert redford,O O O O O O O O B_producer I_producer
+1043,bette midler movies,B_person I_person O
+1044,bette midler movies please,B_person I_person O O
+1045,show bette midler movies,O B_person I_person O
+1046,show me cameron diaz movies,O O B_person I_person O
+1047,show me movies with jennifer aniston,O O O O B_cast I_cast
+1048,russell crowe movies,B_person I_person O
+1049,about life is beautiful,O B_movie I_movie I_movie
+1050,details about life is beautiful please,O O B_movie I_movie I_movie O
+1051,find synopsis for life is beautiful,O O O B_movie I_movie I_movie
+1052,i need page on life is beautiful,O O O O B_movie I_movie I_movie
+1053,i want information about life is beautiful,O O O O B_movie I_movie I_movie
+1054,i want to know about life is beautiful,O O O O O B_movie I_movie I_movie
+1055,i would like to view info on life is beautiful,O O O O O O O B_movie I_movie I_movie
+1056,life is beautiful,B_movie I_movie I_movie
+1057,run a search for life is beautiful,O O O O B_movie I_movie I_movie
+1058,show me life is beautiful information,O O B_movie I_movie I_movie O
+1059,what's the synopsis of life is beatiful,O O O O B_movie I_movie I_movie
+1060,footloose,B_movie
+1061,show jason statham movies,O B_person I_person O
+1062,list statham's movies,O B_person O O
+1063,find movies from new zealand,O O O B_country I_country
+1064,show me the movies acted by bala krishna,O O O O O O B_cast I_cast
+1065,korean language movie,B_language I_language O
+1066,show me korean language movie,O O B_language I_language O
+1067,can you find the movies with korean language,O O O O O O B_language I_language
+1068,show me movies that are in korean,O O O O O O B_language
+1069,portugese movies,B_country O
+1070,current movie options for today with patrick swayze,O O O O O O B_cast I_cast
+1071,display all results for dirty dancing,O O O O B_movie I_movie
+1072,find information on dirty dancing,O O O B_movie I_movie
+1073,search for dirty dancing,O O B_movie I_movie
+1074,search for dirty dancing,O O B_movie I_movie
+1075,how can i view dirty dancing,O O O O B_movie I_movie
+1076,dirty dancing facts,B_movie I_movie O
+1077,did alfred hitchcock direct a comedy,O B_director I_director O O B_genre
+1078,martin lawrence directed what movie,B_director I_director O O O
+1079,find movies from japan,O O O B_country
+1080,show me movies from japan,O O O O B_country
+1081,show me movies from japan,O O O O B_country
+1082,what are some movies made in japan,O O O O O O B_country
+1083,what movies came from japan,O O O O B_country
+1084,which movies were made in japan,O O O O O B_country
+1085,i want to find a list of movies made in japan,O O O O O O O O O O B_country
+1086,do you have any movies made in japan,O O O O O O O B_country
+1087,find japanese movies,O B_country O
+1088,find japanese movies,O B_country O
+1089,give me some names of japanese movies,O O O O O B_country O
+1090,i want japanese movies,O O B_country O
+1091,i want to see japanese movies,O O O O B_country O
+1092,i would like to know names of some of the japanese movies,O O O O O O O O O O B_country O
+1093,japanese movies,B_country O
+1094,show me a list of some japanese movies,O O O O O O B_country O
+1095,show me japanese movies,O O B_country O
+1096,sort in all japanese movies,O O O B_country O
+1097,do you have a list of japanese movies,O O O O O O B_country O
+1098,i want to see a film in japanese,O O O O O O O B_language
+1099,show me movies in japanese,O O O O B_language
+1100,films with japaneese,O O B_language
+1101,what movies have people speaking japanese in them,O O O O O B_language O O
+1102,what are some japanese movies,O O O B_country O
+1103,find movies in british english,O O O B_language I_language
+1104,find movies from miramax,O O O B_producer
+1105,see miramax movies,O B_producer O
+1106,watch miramax,O B_producer
+1107,find movies with sandra bullock,O O O B_cast I_cast
+1108,find sandra bullock movies,O B_person I_person O
+1109,movies with sandra bullock,O O B_cast I_cast
+1110,movies with vampires,O O B_subject
+1111,what movies about vampires are there,O O O B_subject O O
+1112,movies will smith stars in,O B_cast I_cast O O
+1113,show me will smith movies,O O B_person I_person O
+1114,what experience does darla anderson have as a producer,O O O B_producer I_producer O O O O
+1115,look for movies directed by tyler perry,O O O O O B_director I_director
+1116,which movies are directed by tyler perry,O O O O O B_director I_director
+1117,give me movies directed by tyler perry,O O O O O B_director I_director
+1118,search for movies directed by tyler perry,O O O O O B_director I_director
+1119,what films has selena gomez been in,O O O B_cast I_cast O O
+1120,find a movie with mel gibson,O O O O B_cast I_cast
+1121,only mel gibson movies,O B_person I_person O
+1122,find movies produced by paramount pictures,O O O O B_producer I_producer
+1123,i want to see paramount movies,O O O O B_producer O
+1124,i would like a list of paramount movies,O O O O O O B_producer O
+1125,list some paramount produced films,O O B_producer O O
+1126,show all movies by paramount,O O O O B_producer
+1127,show me all the movies made by paramount,O O O O O O O B_producer
+1128,show only paramount movies,O O B_producer O
+1129,is there a list of movies about chess,O O O O O O O B_subject
+1130,movies about chess,O O B_subject
+1131,movies regarding the hobby of chess,O O O O O B_subject
+1132,list some of the best world war 2 films,O O O O O B_subject I_subject I_subject O
+1133,find movies about dogs,O O O B_subject
+1134,find movies with a nc 17 only,O O O O B_mpaa_rating I_mpaa_rating O
+1135,find me nc-17 movies,O O B_mpaa_rating O
+1136,show me nc seventeen movies,O O B_mpaa_rating I_mpaa_rating O
+1137,play movies from turkey,O O O B_country
+1138,what movies have come out of turkey,O O O O O O B_country
+1139,can i have a list of bruce lee produced movies,O O O O O O B_producer I_producer O O
+1140,can you give me a list of movies produced by bruce lee,O O O O O O O O O O B_producer I_producer
+1141,show me movies produced by bruce lee,O O O O O B_producer I_producer
+1142,i want to see movies directed by michael bay,O O O O O O O B_director I_director
+1143,what movies did michael bay direct,O O O B_director I_director O
+1144,ed harris films,B_person I_person O
+1145,show me all movies that star ed harris,O O O O O O B_cast I_cast
+1146,more stuff about the movie go,O O O O O B_movie
+1147,is parenthood a comedy,O B_movie O B_genre
+1148,find movies produced by mel gibson,O O O O B_producer I_producer
+1149,what movies has jerry bruckheimer produced,O O O B_producer I_producer O
+1150,i want to see chinese movies,O O O O B_country O
+1151,show me chinese movies,O O B_country O
+1152,show me dramas from china,O O B_genre O B_country
+1153,i want to watch a drama made in china,O O O O O B_genre O O B_country
+1154,give me the best baseball movies,O O O O B_subject O
+1155,list movies filmed in ireland,O O O O B_location
+1156,list all the movies john travolta has done,O O O O B_person I_person O O
+1157,columbia production company movies,B_producer O O O
+1158,find me 20 th century fox films,O O B_producer I_producer I_producer I_producer O
+1159,list of 20 th century fox films,O O B_producer I_producer I_producer I_producer O
+1160,watch century fox movies,O B_producer I_producer O
+1161,films produced by twentieth century fox,O O O B_producer I_producer I_producer
+1162,find movies by twentieth century fox,O O O B_producer I_producer I_producer
+1163,find twentieth century fox movies,O B_producer I_producer I_producer O
+1164,search twentieth century fox,O B_producer I_producer I_producer
+1165,show me movies by twentieth century fox,O O O O B_producer I_producer I_producer
+1166,show me elvis movies,O O B_person O
+1167,do you have any pg thirteen rated movies,O O O O B_mpaa_rating I_mpaa_rating O O
+1168,show me pg thirteen movies,O O B_mpaa_rating I_mpaa_rating O
+1169,what movies are rated pg thirteen,O O O O B_mpaa_rating I_mpaa_rating
+1170,find pg thirteen movies,O B_mpaa_rating I_mpaa_rating O
+1171,show me movies that are rated pg thirteen,O O O O O O B_mpaa_rating I_mpaa_rating
+1172,list all movies rated pg-13,O O O O B_mpaa_rating
+1173,find movies with pg-13 only,O O O B_mpaa_rating O
+1174,i need to know names of some movies which have a rating of pg-13,O O O O O O O O O O O O O B_mpaa_rating
+1175,i want to find pg-13 rated movies,O O O O B_mpaa_rating O O
+1176,pg-13 movies,B_mpaa_rating O
+1177,which movies are rated pg-13,O O O O B_mpaa_rating
+1178,find a pg-13 movie,O O B_mpaa_rating O
+1179,find me pg-13 movies,O O B_mpaa_rating O
+1180,find movies that are rated pg-13,O O O O O B_mpaa_rating
+1181,give me a list of some movies that have pg-13 rating,O O O O O O O O O B_mpaa_rating O
+1182,i want to see a list of g rated movies,O O O O O O O B_mpaa_rating O O
+1183,list g,O B_mpaa_rating
+1184,what is a list of g movies,O O O O O B_mpaa_rating O
+1185,are there any g movies out there right now,O O O B_mpaa_rating O O O O O
+1186,find me movies rated g,O O O O B_mpaa_rating
+1187,find movies only g,O O O B_mpaa_rating
+1188,get me only g-rated movies,O O O B_mpaa_rating O
+1189,i want a list of movies rated g,O O O O O O O B_mpaa_rating
+1190,i want to see g -rated films now,O O O O B_mpaa_rating O O O
+1191,i want to take my kids to a g movie,O O O O O O O O B_mpaa_rating O
+1192,list of g movies,O O B_mpaa_rating O
+1193,list rating g,O O B_mpaa_rating
+1194,listing of g movies,O O B_mpaa_rating O
+1195,look for movies rated g,O O O O B_mpaa_rating
+1196,look up movies with a g rating,O O O O O B_mpaa_rating O
+1197,play list g,O O B_mpaa_rating
+1198,please select the option to search for g rated movies,O O O O O O O B_mpaa_rating O O
+1199,rating g,O B_mpaa_rating
+1200,search for movies rated g,O O O O B_mpaa_rating
+1201,show me g rated movies,O O B_mpaa_rating O O
+1202,show only g rated movies,O O B_mpaa_rating O O
+1203,what available movies are rated g,O O O O O B_mpaa_rating
+1204,what movies are currently playing that are rated g,O O O O O O O O B_mpaa_rating
+1205,find me movies rated g,O O O O B_mpaa_rating
+1206,find movies that are rated g,O O O O O B_mpaa_rating
+1207,find movies with g rating,O O O B_mpaa_rating O
+1208,g movies,B_mpaa_rating O
+1209,it is hard to find a movie that is rated g anymore,O O O O O O O O O O B_mpaa_rating O
+1210,list movies rated g,O O O B_mpaa_rating
+1211,only movies rated g,O O O B_mpaa_rating
+1212,rating g list,O B_mpaa_rating O
+1213,show me g movies,O O B_mpaa_rating O
+1214,there are several g movies,O O O B_mpaa_rating O
+1215,appropriate for kids,O O O
+1216,what movies can young children watch,O O O O O O
+1217,watch pg and g movies,O B_mpaa_rating O B_mpaa_rating O
+1218,did robert wise direct any other musical films,O B_director I_director O O O B_genre O
+1219,find love stories,O B_subject O
+1220,find love stories,O B_subject O
+1221,show me a list of movies produced by mgm,O O O O O O O O B_producer
+1222,movies from the uk,O O O B_country
+1223,show me british films,O O B_country O
+1224,list uk movies,O B_country O
+1225,get films from the united kingdom,O O O O B_country I_country
+1226,i want to watch a comedy made in norway,O O O O O B_genre O O B_country
+1227,get me a list of movies that ron howard produce,O O O O O O O B_producer I_producer O
+1228,ron howard movies produce list,B_producer I_producer O O O
+1229,list movies directed by clint eastwood,O O O O B_director I_director
+1230,show director clint eastwood movies,O O B_director I_director O
+1231,what movies did clint eastwood direct,O O O B_director I_director O
+1232,movies directed by clint eastwood,O O O B_director I_director
+1233,list movies produced by sean penn,O O O O B_producer I_producer
+1234,find movies about vietnam,O O O B_subject
+1235,what movies has spielberg been a producer on,O O O B_producer O O O O
+1236,i would like to select the option to search for movies produced by stephen spielberg,O O O O O O O O O O O O O O B_producer
+1237,please list all movies that stephen spielberg produced,O O O O O O B_producer O
+1238,select the option to search for movies produced by stephen spielberg,O O O O O O O O O O B_producer
+1239,which productions are from stephen spilberg,O O O O B_producer I_producer
+1240,find movies produced by steven spielberg,O O O O B_producer I_producer
+1241,list steven spielberg produced movies,O B_producer I_producer O O
+1242,show me movies produced by stephen spielberg,O O O O O B_producer I_producer
+1243,was kevin james in hitch,O B_cast I_cast O B_movie
+1244,was will smith in hitch,O B_cast I_cast O B_movie
+1245,show me a list of disney movies,O O O O O B_producer O
+1246,give me a list of some movies by producer walt disney,O O O O O O O O O B_producer I_producer
+1247,list all movies that walt disney produced,O O O O B_producer I_producer O
+1248,show all movies directed by ron howard,O O O O O B_director I_director
+1249,what movies has ron howard directed,O O O B_director I_director O
+1250,find movies by ron howard,O O O B_director I_director
+1251,show movies directed by ron howard,O O O O B_director I_director
+1252,find movies produced by brian glazer,O O O O B_producer I_producer
+1253,list spielberg movies,O B_director O
+1254,show spielberg movies,O B_director O
+1255,what did spielberg direct,O O B_director O
+1256,stephen spielberg movies,B_director I_director O
+1257,filmography for steven spielberg,O O B_director I_director
+1258,find movies directed by steven spielberg,O O O O B_director I_director
+1259,find steven spielberg movies,O B_director I_director O
+1260,i want to find movies directed by stephen speilberg,O O O O O O O B_director I_director
+1261,list all steven spielberg movies,O O B_director I_director O
+1262,please find the movies by steven spielberg,O O O O O B_director I_director
+1263,show films by steven spielberg,O O O B_director I_director
+1264,show steven spielberg movies,O B_director I_director O
+1265,show steven spielberg movies,O B_director I_director O
+1266,steven spielberg movies,B_director I_director O
+1267,steven spielberg pictures,B_director I_director O
+1268,what movies has steven spielberg done,O O O B_director I_director O
+1269,find movies directed by steven spielberg,O O O O B_director I_director
+1270,movie by steven spielberg,O O B_director I_director
+1271,movie stuff for steven spielberg,O O O B_director I_director
+1272,movies by steven spielberg,O O B_director I_director
+1273,movies directed by steven spielberg,O O O B_director I_director
+1274,can i see what movies steven spielberg has done,O O O O O B_director I_director O O
+1275,can you find movies with steven spielberg,O O O O O B_director I_director
+1276,spielberg movies,B_director O
+1277,videos of steven spielberg,O O B_director I_director
+1278,find a list of movies directed by spielberg,O O O O O O O B_director
+1279,show me the movies that spielberg made,O O O O O B_director O
+1280,can you please search for movies by steven spielberg,O O O O O O O B_director I_director
+1281,find movies directed by stephen spielberg,O O O O B_director I_director
+1282,find movies directed by stephen spielberg,O O O O B_director I_director
+1283,i would like to search for movies directed by stephen spielberg,O O O O O O O O O B_director I_director
+1284,list some movies directed by steven spielberg,O O O O O B_director I_director
+1285,please find movies directed by stephen spielberg,O O O O O B_director I_director
+1286,show me movies directed by steven spielberg,O O O O O B_director I_director
+1287,show me the movies directed by steven spielberg,O O O O O O B_director I_director
+1288,which movies are from stephen spielberg,O O O O B_director I_director
+1289,gilda charles vidor,B_movie B_director I_director
+1290,show me movie gilda by charles vidor,O O O B_movie O B_director I_director
+1291,find some musical movies,O O B_genre O
+1292,looking for a musical movie,O O O B_genre O
+1293,show me a list of musicals,O O O O O B_genre
+1294,find the movie hum tum,O O O B_movie I_movie
+1295,find movies directed by eddie murphy,O O O O B_director I_director
+1296,search movies by noah baumbach,O O O B_director I_director
+1297,search chick flicks,O B_genre I_genre
+1298,can you show me movies about war,O O O O O O B_subject
+1299,show me some war themed movies,O O O B_subject O O
+1300,show movies concerning war,O O O B_subject
+1301,please list movies about war,O O O O B_subject
+1302,list movies about war,O O O B_subject
+1303,what movies are made by twentieth century fox television,O O O O O B_producer I_producer I_producer I_producer
+1304,find movies directed by todd solondz,O O O O B_director I_director
+1305,find me movies with hugh jackman,O O O O B_cast I_cast
+1306,what ron howard movies are rated pg-13,O B_director I_director O O O B_mpaa_rating
+1307,look for dramas made or shot in france,O O B_genre O O O O B_country
+1308,find movies from france,O O O B_country
+1309,i want to see movies from france,O O O O O O B_country
+1310,movies from france,O O B_country
+1311,what are all the movies to come out of france,O O O O O O O O O B_country
+1312,give me a list of movies made in france,O O O O O O O O B_country
+1313,i am looking for movies made in france,O O O O O O O B_country
+1314,i want to see a list of movies that were made in france,O O O O O O O O O O O O B_country
+1315,i would like to view any movies made in france,O O O O O O O O O B_country
+1316,please show me movies made in france,O O O O O O B_country
+1317,find movies from france,O O O B_country
+1318,find movies from france,O O O B_country
+1319,what movies were filmed in france,O O O O O B_country
+1320,find french films,O B_country O
+1321,find french movies,O B_country O
+1322,find french movies,O B_country O
+1323,french movies,B_country O
+1324,i would like to see french movies,O O O O O B_country O
+1325,list french movies,O B_country O
+1326,look for french movies,O O B_country O
+1327,look up french movies,O O B_country O
+1328,show me french movies,O O B_country O
+1329,show me only french foreign films,O O O B_country O O
+1330,are there any french films showing,O O O B_country O O
+1331,show me mystery movies,O O B_genre O
+1332,find movies produced by disney pixar,O O O O O B_producer
+1333,show me pixar films,O O B_producer O
+1334,find movies produced by lucas films,O O O O B_producer O
+1335,i would like to find movies starring the singer mario,O O O O O O O O B_cast I_cast
+1336,look for movies starring the singer mario,O O O O O B_cast I_cast
+1337,search for movies starring the singer mario,O O O O O B_cast I_cast
+1338,bring up all diving movies,O O O B_subject O
+1339,bring up all diving related movies,O O O B_subject O O
+1340,show me all movies about diving,O O O O O B_subject
+1341,show me diving movies,O O B_subject O
+1342,sort in all diving movies,O O O B_subject O
+1343,what is the plot of vulgaria,O O O O O B_movie
+1344,find movies by mosfilm,O O O B_producer
+1345,search for movies that were produced by mosfilm,O O O O O O O B_producer
+1346,what films deal with immigrants in america,O O O O B_subject I_subject I_subject
+1347,look for cher movies,O O B_person O
+1348,show me cher movies,O O B_person O
+1349,eva mendes films,B_person I_person O
+1350,the god father,B_movie I_movie I_movie
+1351,i need a list of tom hanks movies,O O O O O B_person I_person O
+1352,i want to view only movies with tom hanks,O O O O O O O B_cast I_cast
+1353,i want to watch movies with tom hanks,O O O O O O B_cast I_cast
+1354,list tom hanks movies for me,O B_person I_person O O O
+1355,movies with tom hanks,O O B_cast I_cast
+1356,show me tom hanks movies,O O B_person I_person O
+1357,show tom hanks movies,O B_person I_person O
+1358,tell me what movies tom hanks star in,O¬¥O O O B_cast I_cast O O
+1359,tom hanks movies,B_person I_person O
+1360,watch tom hanks,O B_cast I_cast
+1361,what other movies did tom hanks star in,O O O O B_cast I_cast O O
+1362,find movies produced by morgan freeman,O O O O B_producer I_producer
+1363,producer tom hanks movies,O B_producer I_producer O
+1364,what did tom hanks produces,O O B_producer I_producer O
+1365,find movies directed by oliver stone,O O O O B_director I_director
+1366,find oliver stone directed movies,O B_director I_director O O
+1367,i need movies directed by oliver stone,O O O O O B_director I_director
+1368,please provide movies directed by oliver stone,O O O O O B_director I_director
+1369,show movies directed by oliver stone,O O O O B_director I_director
+1370,name all of the movies john singleton has directed,O O O O O B_director I_director O O
+1371,what are all of the movies that john singleton has directed,O O O O O O O B_director I_director O O
+1372,show me movies in greek,O O O O B_language
+1373,are there any movies in greek,O O O O O B_language
+1374,can i see all movies starring alan rickman,O O O O O O B_cast I_cast
+1375,show me movies with alan rickman,O O O O B_cast I_cast
+1376,show movies charlie sheen,O O B_person I_person
+1377,funny pg thirteen movies,B_genre B_mpaa_rating I_mpaa_rating O
+1378,find movies produced by albert ruddy,O O O O B_producer I_producer
+1379,please look up movies produced by albert ruddy,O O O O O O B_producer I_producer
+1380,list all movies produced by alfred ruddy,O O O O O B_producer I_producer
+1381,search for movies produced by albert ruddy,O O O O O B_producer I_producer
+1382,what movies has albert ruddy produced,O O O B_producer I_producer O
+1383,what movies have albert ruddy produced,O O O B_producer I_producer O
+1384,which movie was produced by albert rudy,O O O O O B_producer I_producer
+1385,which all movies are produced by yash chopra,O O O O O O B_producer I_producer
+1386,the camp out,B_movie I_movie I_movie
+1387,get all brad pitt produced movies,O O B_producer I_producer O O
+1388,what movies have brad pitt produced,O O O B_producer I_producer O
+1389,what movies were produced by brad pitt,O O O O O B_producer I_producer
+1390,find movies starring halle berry,O O O B_cast I_cast
+1391,look for films with halle berry,O O O O B_cast I_cast
+1392,search movies in which halle berry acted,O O O O B_cast I_cast O
+1393,films by mel gibson,O O B_director I_director
+1394,search movies made by mel gibson,O O O O B_director I_director
+1395,movies by mel gibson,O O B_director I_director
+1396,show me a list of movies directed by mel gibson,O O O O O O O O B_director I_director
+1397,is this movie a romance,O O O O B_genre
+1398,home this movie is in english,O O O O O B_language
+1399,hope this movie is in english,O O O O O B_language
+1400,i hope this movie would be in english,O O O O O O O B_language
+1401,need to provide more info about the movie content,O O O O O O O O O
+1402,was what tom cruise's first movie,O O B_person I_person O O O
+1403,is the other guys a comedy,O B_movie I_movie I_movie O B_genre
+1404,what movies have robert deniro produced,O O O B_producer I_producer O
+1405,find me a list of movies directed by james cameron,O O O O O O O O B_director I_director
+1406,find movies directed by james cameron,O O O O B_director I_director
+1407,i want to find movies by director james cameron,O O O O O O O B_director I_director
+1408,list all of the movies directed by james cameron,O O O O O O O B_director I_director
+1409,list movies directed by james cameron,O O O O B_director I_director
+1410,watch james cameron movies,O B_director I_director O
+1411,can you show me a list of all the movies directed by james cameron,O O O O O O O O O O O O B_director I_director
+1412,show me a list of all the movies directed by james cameron,O O O O O O O O O O B_director I_director
+1413,show me other movies produced by james cameron,O O O O O O B_producer I_producer
+1414,show me the movies that james cameron has produced,O O O O O B_producer I_producer O O
+1415,find me some warner bros. movies,O O O B_producer I_producer O
+1416,i want to see movies produced by warner bros,O O O O O O O B_producer I_producer
+1417,show me a list of all warner bros. films,O O O O O O B_producer I_producer O
+1418,show me all films produced by warner bros.,O O O O O O B_producer I_producer
+1419,show me the movies produced by warner bros,O O O O O O B_producer I_producer
+1420,what are the films that warner bros. produced,O O O O O B_producer I_producer O
+1421,i need to see some movies from warner brothers,O O O O O O O B_producer I_producer
+1422,search for warner brothers movies,O O B_producer I_producer O
+1423,i would love to see some movies produced by the wb,O O O O O O O O O O B_producer
+1424,what movies has jj abrams procuced,O O O B_producer I_producer O
+1425,show recent films starring bruce willis,O B_release_year O O B_cast I_cast
+1426,list recent films with actor bruce willis,O O O O O B_cast I_cast
+1427,find john cusack movies,O B_person I_person O
+1428,get john cusack movies for me,O B_person I_person O O O
+1429,look for john cusack movies,O O B_person I_person O
+1430,look for wes anderson films,O O B_person I_person O
+1431,i would like to know the names of all the movies which have george clooney in them,O O O O O O O O O O O O O B_cast I_cast O O
+1432,which are some of the movies that have george clooney in them,O O O O O O O O B_cast I_cast O O
+1433,show me some films produced by jon landau,O O O O O O B_producer I_producer
+1434,about finding nemo,O B_movie I_movie
+1435,about finding nemo,O B_movie I_movie
+1436,about finding nemo,O B_movie I_movie
+1437,all about finding nemo,O O B_movie I_movie
+1438,detail finding nemo,O B_movie I_movie
+1439,find me more about finding nemo,O O O O B_movie I_movie
+1440,finding nemo,B_movie I_movie
+1441,finding nemo,B_movie I_movie
+1442,finding nemo details please,B_movie I_movie O O
+1443,finding nemo info,B_movie I_movie O
+1444,how can i get more information on finding nemo,O O O O O O O B_movie I_movie
+1445,i need general information on finding nemo,O O O O O B_movie I_movie
+1446,i would like to see finding nemo's page,O O O O O B_movie I_movie O O
+1447,information on finding nemo,O O B_movie I_movie
+1448,information on finding nemo,O O B_movie I_movie
+1449,look up finding nemo,O O B_movie I_movie
+1450,open page for finding nemo,O O O B_movie I_movie
+1451,please find me some info on finding nemo,O O O O O O B_movie I_movie
+1452,run a search for finding nemo for me please,O O O O B_movie I_movie O O O
+1453,show details of the original finding nemo,O O O O O B_movie I_movie
+1454,show finding nemo,O B_movie I_movie
+1455,show me finding nemo,O O B_movie I_movie
+1456,show me finding nemo's page,O O B_movie I_movie O O
+1457,show me the official site for finding nemo,O O O O O O B_movie I_movie
+1458,synopsis for finding nemo,O O B_movie I_movie
+1459,synopsis for finding nemo,O O B_movie I_movie
+1460,where can i find information on finding nemo,O O O O O O B_movie I_movie
+1461,about the campaign,O B_movie I_movie
+1462,i would like to get all the information about the the campaign,O O O O O O B_movie O O B_movie B_movie I_movie
+1463,run a search for the campaign,O O O O B_movie I_movie
+1464,the campaign,B_movie I_movie
+1465,what is the campaign about,O O B_movie I_movie O
+1466,show me apollo thirteen,O O B_movie I_movie
+1467,frank capra movies,B_director I_director O
+1468,find movies produced by castle rock entertainment,O O O O B_producer I_producer I_producer
+1469,what movies does jake gyllenhaal star in,O O O B_cast I_cast O O
+1470,get a list of movies with kristen stewart,O O O O O O B_cast I_cast
+1471,kristen stewart top movies,B_cast I_cast O O
+1472,show me all movies kristen stewart has been in,O O O O B_cast I_cast O O O
+1473,what movies have kristen stewart done,O O O B_cast I_cast O
+1474,which movies has kristen stewart been in,O O O B_cast I_cast O O
+1475,list movie info kristen stewart,O O O B_person I_person
+1476,find movie info kristenn stewart,O O O B_person I_person
+1477,movie info kristen stewart,O O B_person I_person
+1478,show lionsgate director movies,O B_producer O O
+1479,display movies made by production lionsgate,O O O O O B_producer
+1480,i want to see a list of lionsgate movies,O O O O O O O B_producer O
+1481,lionsgate films,B_producer O
+1482,lionsgate list,B_producer O
+1483,lionsgate movies,B_producer O
+1484,list lionsgate movies,O B_producer O
+1485,search for lionsgate movies,O O B_producer O
+1486,what movies has lionsgate done,O O O B_producer O
+1487,michelle phifer movie list,B_person I_person O O
+1488,find danish movies,O B_country O
+1489,show me the movies acted by chiranjeevi,O O O O O O B_cast
+1490,what movies has charles vidor directed,O O O B_director I_director O
+1491,what other movies die charles vidor direct,O O O O B_director I_director O
+1492,show me all movies by charles vidor,O O O O O B_director I_director
+1493,i'd like to see foreign films,O O O O O O
+1494,search for foreign movies,O O O O
+1495,what are some universal pictures films,O O O B_producer O O
+1496,show me all the movies made by universal,O O O O O O O B_producer
+1497,find historical movies,O B_subject O
+1498,display the films by 7 arts,O O O O B_producer I_producer
+1499,show movies done by 7 arts,O O O O B_producer I_producer
+1500,can you show me a korean movie,O O O O O B_country O
+1501,find korean movies,O B_country O
+1502,korean movie,B_country O
+1503,show me korean movies,O O B_country O
+1504,i want to watch a korean movie,O O O O O B_country O
+1505,find all rated pg-13 movies with eddie murphy,O O O B_mpaa_rating O O B_cast I_cast
+1506,twentieth century fox movies since 1990,B_producer I_producer I_producer O O B_release_year
+1507,can you show me movies starring denzel washington please,O O O O O O B_cast I_cast O
+1508,i want to see movies starring denzel washington,O O O O O O B_cast I_cast
+1509,please show me movies starring denzel washington,O O O O O B_cast I_cast
+1510,show me movies starring denzel washington,O O O O B_cast I_cast
+1511,all the movies by kareena,O O O O B_person
+1512,find movies of kareena,O O O B_person
+1513,kareena's movies,B_person O O
+1514,look for kareena's movies,O O B_person O O
+1515,find prison break movies,O B_subject I_subject O
+1516,find movies produced by spike lee,O O O O B_producer I_producer
+1517,has spike lee produced any films,O B_producer I_producer O O O
+1518,search for movies produced by spike lee,O O O O O B_producer I_producer
+1519,give me a list of woody allen films,O O O O O B_director I_director O
+1520,show all movies directed by woody allen,O O O O O B_director I_director
+1521,woody movies,B_director O
+1522,please find all movies woody allen has directed,O O O O B_director I_director O O
+1523,what movies were directed by woody allen,O O O O O B_director I_director
+1524,which movies does gabrielle union come out in,O O O O O O O O
+1525,give me anything directed by robert wise,O O O O O B_director I_director
+1526,list all robert wise movies,O O B_director I_director O
+1527,show me a list of movies directed by robert wise,O O O O O O O O B_director I_director
+1528,what are all of the movies directed by robert wise,O O O O O O O O B_director I_director
+1529,list all of the movies that have been directed by robert wise,O O O O O O O O O O B_director I_director
+1530,what are all movies produced by chris nolan,O O O O O O B_producer I_producer
+1531,show me movies in german,O O O O B_language
+1532,display movies in german,O O O B_language
+1533,do you have in movies in german,O O O O O O B_language
+1534,i only want to see movies in german,O O O O O O O B_language
+1535,watch movies in german language,O O O B_language I_language
+1536,find films in german,O O O B_language
+1537,get german language films,O B_language I_language O
+1538,show movies in german,O O O B_language
+1539,show back to the future movies,O B_movie I_movie I_movie I_movie O
+1540,show me back to the future movies,O O B_movie I_movie I_movie I_movie O
+1541,movie results for back to the future,O O O B_movie I_movie I_movie I_movie
+1542,show me a list of movies that christian bale has starred in during his career,O O O O O O O B_cast I_cast O O O O O O
+1543,what are all of the movies acted in by the actor christian bale,O O O O O O O O O O O B_cast I_cast
+1544,what are all the movies played in by chrisian bale,O O O O O O O O B_cast I_cast
+1545,what movies has christian bale acted in,O O O B_cast I_cast O O
+1546,what movies has christian bale appeared in,O O O B_cast I_cast O O
+1547,what movies have christian bale played in,O O O B_cast I_cast O O
+1548,what movies and upcoming movies will christian bale star in,O O O O O O B_cast I_cast O O
+1549,find me movies by jj abrams,O O O O B_person I_person
+1550,brad pitt movie now,B_person I_person O O
+1551,brad pitt movies,B_person I_person O
+1552,can you please list all movies with brad pitt,O O O O O O O B_cast I_cast
+1553,can you please list all movies with brad pitt,O O O O O O O B_cast I_cast
+1554,can you please list the movies brad pitt has acted in,O O O O O O B_cast I_cast O O O
+1555,can you show me a movie with brad pitt,O O O O O O O B_cast I_cast
+1556,i want to watch movies with brad pitt,O O O O O O B_cast I_cast
+1557,list all brad pitt movies,O O B_person I_person O
+1558,list all brad pitt's movies,O O B_person I_person O O
+1559,list brad pitt movies,O B_person I_person O
+1560,look for movies with brad pitt in them,O O O O B_cast I_cast O O
+1561,movie with brad pitt,O O B_cast I_cast
+1562,show all brad pitt movies,O O B_person I_person O
+1563,show brad pitt movies,O B_person I_person O
+1564,show me brad pitt movies,O O B_person I_person O
+1565,show movies with brad pitt,O O O B_cast I_cast
+1566,what movie brad pitt in,O O B_cast I_cast O
+1567,what movies have brad pitt,O O O B_cast I_cast
+1568,sort by all brad pitt movies,O O O B_person I_person O
+1569,what movies did tom hanks direct that he also starred in,O O O B_director I_director O O O O O O
+1570,show me a list of all movies directed by tom hanks starting with newest to oldest,O O O O O O O O O B_director I_director O O O O O
+1571,angelina jolie's latest movie,B_person I_person O O O
+1572,movies from scotland,O O B_country
+1573,give me a list of r rated movies,O O O O O B_mpaa_rating O O
+1574,i want to look for movies with an r rating,O O O O O O O O B_mpaa_rating O
+1575,i want to see all movies with a r rating,O O O O O O O O B_mpaa_rating O
+1576,please look up r rated movies,O O O B_mpaa_rating O O
+1577,rate r movies for adult enterainment,O B_mpaa_rating O O O O
+1578,show me all r -rated movies,O O O B_mpaa_rating O O
+1579,show me movies that are rated r,O O O O O O B_mpaa_rating
+1580,find movies with r ratings,O O O B_mpaa_rating O
+1581,find rated r movies,O O B_mpaa_rating O
+1582,i want to find movies rated r,O O O O O O B_mpaa_rating
+1583,i want to view movies that are rated r,O O O O O O O O B_mpaa_rating
+1584,look up r rated movies,O O B_mpaa_rating O O
+1585,movies with r rating,O O B_mpaa_rating O
+1586,r - rated,B_mpaa_rating O O
+1587,r rated movies,B_mpaa_rating O O
+1588,show me movies with a rating of r,O O O O O O O B_mpaa_rating
+1589,what are a list of movies with an r rating,O O O O O O O O B_mpaa_rating O
+1590,are there any movies that are rated r,O O O O O O O B_mpaa_rating
+1591,compile a list of movies with a r rating,O O O O O O O B_mpaa_rating O
+1592,i want an r rated movie,O O O B_mpaa_rating O O
+1593,list all rated r movies,O O O B_mpaa_rating O
+1594,r rated movies,B_mpaa_rating O O
+1595,search for r rated movies,O O B_mpaa_rating O O
+1596,show me a list of movies with r rating,O O O O O O O B_mpaa_rating O
+1597,show me all rated r movies,O O O O B_mpaa_rating O
+1598,show me r movies,O O B_mpaa_rating O
+1599,show me r rated movies,O O B_mpaa_rating O O
+1600,show only rated r movies,O O O B_mpaa_rating O
+1601,what are movies that have a r rating,O O O O O O B_mpaa_rating O
+1602,which movies are rated r,O O O O B_mpaa_rating
+1603,what other videos does the country norway have,O O O O O O B_country O
+1604,a showing of movies that are in spanish,O O O O O O O B_language
+1605,can you find movies in spanish,O O O O O B_language
+1606,search for movies in spanish,O O O O B_language
+1607,spanish language movies,B_language I_language O
+1608,i am looking for movies in spanish,O O O O O O B_language
+1609,i would like to watch movies that are spoken in spanish,O O O O O O O O O O B_language
+1610,list of movies in spanish,O O O O B_language
+1611,show me movies in spanish,O O O O B_language
+1612,can you show me a list of movies in spanish,O O O O O O O O O B_language
+1613,find movies in spanish,O O O B_language
+1614,find movies in spanish,O O O B_language
+1615,give me movies in spanish,O O O O B_language
+1616,i would like a list of movies that have been made in spanish,O O O O O O O O O O O O B_language
+1617,movies in spanish,O O B_language
+1618,please make a list of movies that have been made in spanish,O O O O O O O O O O O B_language
+1619,send me movies that are in spanish,O O O O O O B_language
+1620,show me movies in spanish,O O O O B_language
+1621,show me movies that are in spanish,O O O O O O B_language
+1622,give me swedish films,O O B_country O
+1623,show me mexican films,O O B_country O
+1624,show me movies made in south africa,O O O O O B_country I_country
+1625,list some sci fi movies,O O B_genre I_genre O
+1626,show me scifi fantasy movies,O O B_genre I_genre O
+1627,find scifi films,O B_genre O
+1628,list scifi,O B_genre
+1629,what movies did matt damon appear in,O O O B_cast I_cast O O
+1630,sound of music robert wise,B_movie I_movie I_movie B_director I_director
+1631,can i watch a terry george film tonight,O O O O B_director I_director O O
+1632,get a list of animated films,O O O O B_genre O
+1633,show me movies that are about scary zombies,O O O O O O B_subject I_subject
+1634,is there a movie about the zombie apocolypse,O O O O O O B_subject I_subject
+1635,i want to see a list about zombie horror films,O O O O O O O B_subject B_genre O
+1636,find some zombie movies,O O B_subject O
+1637,find zombie movies,O B_subject O
+1638,get list of zombie movies,O O O B_subject O
+1639,give me a list of zombie movies,O O O O O B_subject O
+1640,i want to find zombie movies,O O O O B_subject O
+1641,i want to see zombie movies,O O O O B_subject O
+1642,see zombie movies,O B_subject O
+1643,show me zombie movies,O O B_subject O
+1644,show me zombie movies,O O B_subject O
+1645,show zombie movies,O B_subject O
+1646,zombie movie favorites,B_subject O O
+1647,find me a movie with zombies,O O O O O B_subject
+1648,show me movies about zombies,O O O O B_subject
+1649,show me movies about zombies,O O O O B_subject
+1650,show me movies about zombies,O O O O B_subject
+1651,show movies of zombies,O O O B_subject
+1652,which movies are based on zombies,O O O O O B_subject
+1653,which movies have zombies in them,O O O B_subject O O
+1654,movies about zombies,O O B_subject
+1655,display movies of zombies,O O O B_subject
+1656,get movies about zombies,O O O B_subject
+1657,movies about zombies,O O B_subject
+1658,i want scary zombie movies,O O B_genre B_subject O
+1659,i want to see zombie movies that are scary,O O O O B_subject O O O B_genre
+1660,find movies directed by niel abramson,O O O O B_director I_director
+1661,zombies,B_subject
+1662,what movies are directed by ridley scott,O O O O O B_director I_director
+1663,i want to see movies directed by ridley scott,O O O O O O O B_director I_director
+1664,german movie info,B_country O O
+1665,i want to watch a german movie,O O O O O B_country O
+1666,info german movie,O B_country O
+1667,show german movies,O B_country O
+1668,find action movies,O B_genre O
+1669,looking for an action movie,O O O B_genre O
+1670,what is the ratings of action movies,O O O O O B_genre O
+1671,movies patrick swayze played in,O B_person I_person O O
+1672,show me a movie that starred patrick swayze,O O O O O O B_cast I_cast
+1673,show me short films,O O B_genre O
+1674,movies by george lucas,O O B_director I_director
+1675,list of all dutch movies,O O O B_country O
+1676,please give me a dutch movie listing,O O O O B_country O O
+1677,dutch movie listing,B_country O O
+1678,show me childrens movies,O O B_mpaa_rating O
+1679,movies tom cruise produced,O B_producer I_producer O
+1680,what movies did harry weinstein produce,O O O B_producer I_producer O
+1681,i want to look for movies produced by morgan freeman,O O O O O O O O B_producer I_producer
+1682,i would like to find movies produced by morgan freeman,O O O O O O O O B_producer I_producer
+1683,look for movies produced by morgan freeman,O O O O O B_producer I_producer
+1684,search for movies produced by morgan freeman,O O O O O B_producer I_producer
+1685,what movies are in bengali,O O O O B_language
+1686,meryl streep movies,B_person I_person O
+1687,movies frances ford copolla,O B_person I_person I_person
+1688,what movie did victor fleming direct,O O O B_director I_director O
+1689,movies from russia,O O B_country
+1690,search for films produced in russia,O O O O O B_country
+1691,find movies produced in russia,O O O O B_country
+1692,find all details about star wars-a new hope movie,O O O O B_movie I_movie I_movie I_movie O
+1693,show all details about star wars-a new hope movie,O O O O B_movie I_movie I_movie I_movie O
+1694,get me information about the movie star wars four,O O O O O O B_movie I_movie I_movie
+1695,can you show me details about the movie star wars:episode four - a new hope,O O O O O O O O B_movie I_movie I_movie I_movie I_movie I_movie I_movie
+1696,give me detailed information about the movie star wars:episode four -a new hope,O O O O O O O B_movie I_movie I_movie I_movie I_movie I_movie
+1697,i would like to get some information about the movie star wars:episode four -a new hope,O O O O O O O O O O B_movie I_movie I_movie I_movie I_movie I_movie
+1698,list star wars movie a new hope,O B_movie I_movie I_movie I_movie I_movie I_movie
+1699,find info about star wars episode four,O O O B_movie I_movie I_movie I_movie
+1700,get me info on star wars episode four,O O O O B_movie I_movie I_movie I_movie
+1701,get me star wars episode four details,O O B_movie I_movie I_movie I_movie O
+1702,i want to see info about star wars four,O O O O O O B_movie I_movie I_movie
+1703,run a search for star wars four,O I_movie O O B_movie I_movie I_movie
+1704,show me star wars four,O O B_movie I_movie I_movie
+1705,show me star wars four page,O O B_movie I_movie I_movie O
+1706,star wars four,B_movie I_movie I_movie
+1707,take me to star wars four page,O O O B_movie I_movie I_movie O
+1708,where can i watch star wars four,O O O O B_movie I_movie I_movie
+1709,tell about star wars iv,O O B_movie I_movie I_movie
+1710,what is full name of star wars iv,O O O O O B_movie I_movie I_movie
+1711,darth vader,B_char I_char
+1712,han solo,B_char I_char
+1713,i only want movies by sidney lumit,O O O O O B_director I_director
+1714,movies with sally field,O O B_cast I_cast
+1715,can you please open page about in july movie,O O O O O O B_movie I_movie O
+1716,display details of in july movie,O O O B_movie I_movie O
+1717,exhibit details of in july movie,O O O B_movie I_movie O
+1718,in july movie page,B_movie I_movie O O
+1719,about movie in july,O O B_movie I_movie
+1720,find me the film in july,O O O O B_movie I_movie
+1721,show information for the movie title in july with moritz bleibtreu,O O O O O O B_movie I_movie O B_cast I_cast
+1722,give me details about the movie in july,O O O O O O B_movie I_movie
+1723,i want information about the movie in july,O O O O O O B_movie I_movie
+1724,i would like to get detailed information about the movie in july,O O O O O O O O O O B_movie I_movie
+1725,search the movie in july,O O O B_movie I_movie
+1726,show data for the movie in july,O O O O O B_movie I_movie
+1727,show me detailed information about the movie in july,O O O O O O O B_movie I_movie
+1728,show me more details for the movie in july,O O O O O O O B_movie I_movie
+1729,check movie in july information,O O B_movie I_movie O
+1730,display information for the movie in july,O O O O O B_movie I_movie
+1731,i want to see anne hathaway's latest movie,O O O O B_person I_person O O O
+1732,show me anne hathaway's latest movie,O O B_person I_person O O O
+1733,show me hathaway's recent movies,O O B_person O B_release_year O
+1734,what movies has jack black been in,O O O B_cast I_cast O O
+1735,angelina jolie movies,B_person I_person O
+1736,in which movies has angelina jolie starred,O O O O B_cast I_cast O
+1737,list of movies starring angelina jolie,O O O O B_cast I_cast
+1738,movies with angelina jolie,O O B_cast I_cast
+1739,show angelina jolie movies,O B_person I_person O
+1740,show me all movies for angelina jolie,O O O O O B_person I_person
+1741,show movies with angelina jolie,O O O B_cast I_cast
+1742,what movies has angelina jolie been in,O O O O B_cast I_cast O
+1743,which movies has angelina jolie been in,O O O O B_cast I_cast O
+1744,list movies starring angelina jolie,O O O B_cast I_cast
+1745,list movies with angelina jolie in them,O O O B_cast I_cast O O
+1746,funny kids movies,B_genre B_mpaa_rating O
+1747,movies about basketball,O O B_subject
+1748,can you locate movies produced by clint eastwood,O O O O O O B_producer I_producer
+1749,can you show movies produced by clint eastwood,O O O O O O B_producer I_producer
+1750,find all movies produced by clint eastwood,O O O O O B_producer I_producer
+1751,i am looking for movies produced by clint eastwood,O O O O O O O B_producer I_producer
+1752,i need a list of movies produced by clint eastwood,O O O O O O O O B_producer I_producer
+1753,please find movies produced by clint eastwood,O O O O O B_producer I_producer
+1754,will you provide a list of movies produced by clint eastwood,O O O O O O O O O B_producer I_producer
+1755,i want to see more movies with katie holmes,O O O O O O O B_cast I_cast
+1756,find any movies about horses,O O O O B_subject
+1757,what are some current movies with horses as the main topic of the movie,O O O O O O B_subject O O O O O O O
+1758,johnny depp movies,B_person I_person O
+1759,bring up black swan production,O O B_movie I_movie O
+1760,all the movies of karan johar,O O O O B_director I_director
+1761,karan johar's movies,B_director I_director O O
+1762,find movies of karan johar,O O O B_director I_director
+1763,movies of karan johar,O O B_director I_director
+1764,find director movies,O O O
+1765,find a list of directors and their movies,O O O O O O O O
+1766,movies and who directed them,O O O O O
+1767,bring up all director movies,O O O O O
+1768,list director movies,O O O
+1769,show movies directed by,O O O O
+1770,i want to look up information about the movie hotel transylvania,O O O O O O O O O B_movie I_movie
+1771,will ferrell been in,B_cast I_cast O O
+1772,what has will ferrell done,O O B_person I_person O
+1773,find movies about gambling,O O O B_subject
+1774,find movies about ice skating,O O O B_subject I_subject
+1775,generate a list of movies about ice skating,O O O O O O B_subject I_subject
+1776,list ice skating movies please,O B_subject I_subject O O
+1777,are there any movies with ice skating,O O O O O B_subject I_subject
+1778,please show me movies about ice skating,O O O O O B_subject I_subject
+1779,search for movies about ice skating,O O O O B_subject I_subject
+1780,are there any movies with skating on ice,O O O O O B_subject I_subject I_subject
+1781,find dreamworks movies for kids,O B_producer O O B_mpaa_rating
+1782,where can i see a list of movies produced in great britain,O O O O O O O O O O B_country I_country
+1783,taye diggs films,B_person I_person O
+1784,about house at the end of the street,O B_movie I_movie I_movie I_movie I_movie I_movie I_movie
+1785,find me info on house at the end of the street,O O O O B_movie I_movie I_movie I_movie I_movie I_movie I_movie
+1786,house at the end of the street movie info,B_movie I_movie I_movie I_movie I_movie I_movie I_movie O O
+1787,i would like to see house at the end of the street information,O O O O O B_movie I_movie I_movie I_movie I_movie I_movie I_movie O
+1788,overview of house at the end of the street,O O B_movie I_movie I_movie I_movie I_movie I_movie I_movie
+1789,show me house at the end of the street,O O B_movie I_movie I_movie I_movie I_movie I_movie I_movie
+1790,show me the page about house at the end of the street,O O O O O B_movie I_movie I_movie I_movie I_movie I_movie I_movie
+1791,get me info about the movie house at the end of the street,O O O O O O B_movie I_movie I_movie I_movie I_movie I_movie I_movie
+1792,show information for the movie house at the end of the street,O O O O O B_movie I_movie I_movie I_movie I_movie I_movie I_movie
+1793,show me detailed information about the movie house at the end of the street,O O O O O O O B_movie I_movie I_movie I_movie I_movie I_movie I_movie
+1794,show me more details for the movie house at the end of the street,O O O O O O O B_movie I_movie I_movie I_movie I_movie I_movie I_movie
+1795,can you give me detailed information about the movie house at the end of the street,O O O O O O O O O B_movie I_movie I_movie I_movie I_movie I_movie I_movie
+1796,dispaly info for movie house at the end of the street,O O O O B_movie I_movie I_movie I_movie I_movie I_movie I_movie
+1797,display overview of the movie house at the end of the street,O O O O O B_movie I_movie I_movie I_movie I_movie I_movie I_movie
+1798,i need information about the cast reviews story etc in detail about the movie house at the end of the street,O O O O O O O O O O O O O O B_movie I_movie I_movie I_movie I_movie I_movie I_movie
+1799,send me movies that are in chinese,O O O O O O B_language
+1800,i want chinese language movies,O O B_language I_language O
+1801,show me movies in chinese,O O O O B_language
+1802,find all chinese language movies,O O B_language I_language O
+1803,look up movies in chinese,O O O O B_language
+1804,movies in chinese,O O B_language
+1805,show me movies produced by julian fellows,O O O O O B_producer I_producer
+1806,julian fellows productions,B_producer I_producer O
+1807,can you please search movies of tom cruise,O O O O O O B_person I_person
+1808,find movies with tom cruise,O O O B_cast I_cast
+1809,find movies with tom cruise in them,O O O B_cast I_cast O O
+1810,in what movies tom cruise is,O O O B_cast I_cast O
+1811,movies starring tom cruise,O O B_cast I_cast
+1812,show me all movies tom cruise has been in,O O O O B_cast I_cast O O O
+1813,tom cruise movies,B_person I_person O
+1814,tom cruise movies,B_person I_person O
+1815,what movies has tom cruise been in,O O O B_cast I_cast O O
+1816,what movies has tom cruise starred in,O O O B_cast I_cast O O
+1817,find movies produced by george lucas,O O O O B_producer I_producer
+1818,find movies produced by george lucus,O O O O B_producer I_producer
+1819,give me a list of movies produced by george lucas,O O O O O O O O B_producer I_producer
+1820,give me a list of movies that george lucas produced,O O O O O O O B_producer I_producer O
+1821,locate all movies produced by george lucas,O O O O O B_producer I_producer
+1822,list of dax shepard movies,O O B_person I_person O
+1823,yash chopra's movies,B_director I_director O O
+1824,find movies of yash chopra,O O O B_director I_director
+1825,trouble with the curve was based on what,B_movie I_movie I_movie I_movie O O O O
+1826,what was the last film robert redford produced,O O O O O B_producer I_producer O
+1827,movies about immigration,O O B_subject
+1828,dawn of the dead movie information,B_movie I_movie I_movie I_movie O O
+1829,search the campaign movie,O B_movie I_movie O
+1830,show me information related to the film the campaign,O O O O O O O B_movie I_movie
+1831,will you please show me info on the movie the campaign,O O O O O O O O O B_movie I_movie
+1832,the campaign movie page,B_movie I_movie O O
+1833,i want to see info on the movie the campaign,O O O O O O O O B_movie I_movie
+1834,look up movie the campaign,O O O B_movie I_movie
+1835,please show me info on the movie the campaign,O O O O O O O B_movie I_movie
+1836,show me information for the movie the campaign,O O O O O O B_movie I_movie
+1837,tell me about the movie the campaign in detail,O O O O O B_movie I_movie O O
+1838,can you show me details about the movie the campaign,O O O O O O O O B_movie I_movie
+1839,find movies about love,O O O B_subject
+1840,movies about nature,O O B_subject
+1841,show me the comedy pitch perfect,O O O B_genre B_movie I_movie
+1842,show me the movies produced by reliance,O O O O O O B_producer
+1843,which movies are family friendly,O O O B_genre I_genre
+1844,can you get me a pg movie list,O O O O O B_mpaa_rating O O
+1845,find a pg rated movie,O O B_mpaa_rating O O
+1846,find rated pg movies,O O B_mpaa_rating O
+1847,give me some good pg moives,O O O O B_mpaa_rating O
+1848,i am looking for movies that are rated pg for family movie night,O O O O O O O O B_mpaa_rating O O O O
+1849,i need to see a list of pg movies,O O O O O O O B_mpaa_rating O
+1850,i need to see all pg movies,O O O O O B_mpaa_rating O
+1851,movies rated pg,O O B_mpaa_rating
+1852,pg movies list please,B_mpaa_rating O O O
+1853,please show a list of recent movies rated pg,O O O O O O O O B_mpaa_rating
+1854,show me movies rated pg,O O O O B_mpaa_rating
+1855,bring up all pg movies,O O O B_mpaa_rating O
+1856,find me pg movies,O O B_mpaa_rating O
+1857,find movies rated pg,O O O B_mpaa_rating
+1858,find movies that are pg,O O O O B_mpaa_rating
+1859,i need movies with a pg rating,O O O O O B_mpaa_rating O
+1860,i want to search for pg rated movies,O O O O O B_mpaa_rating O O
+1861,list movies rated pg,O O O B_mpaa_rating
+1862,movies with pg rating,O O B_mpaa_rating O
+1863,movies with pg rating,O O B_mpaa_rating O
+1864,pg movies,B_mpaa_rating O
+1865,show me pg rated movies,O O B_mpaa_rating O O
+1866,show me the movies rating pg,O O O O O B_mpaa_rating
+1867,find movies with pg ratings only,O O O B_mpaa_rating O O
+1868,i want a list of pg rated movies,O O O O O B_mpaa_rating O O
+1869,i want to see movies that are rated pg,O O O O O O O O B_mpaa_rating
+1870,only show movies rated pg,O O O O B_mpaa_rating
+1871,please find pg rated movies,O O B_mpaa_rating O O
+1872,search for movies with a pg rating,O O O O O B_mpaa_rating O
+1873,search for movies with a pg rating,O O O O O B_mpaa_rating O
+1874,show me all pg movies,O O O B_mpaa_rating O
+1875,show me movies with pg rating,O O O O B_mpaa_rating O
+1876,show me movies with pg ratings,O O O O B_mpaa_rating O
+1877,show me pg movies,O O B_mpaa_rating O
+1878,get hungarian films,O B_country O
+1879,i want to watch a comedy made in hungary,O O O O O B_genre O O B_country
+1880,show me hungarian comedies,O O B_country B_genre
+1881,what's the latest on brad pitt,O O O O B_person I_person
+1882,i'm looking for a jason cortlund movie,O O O O B_director I_director O
+1883,show me the movie now forager,O O O O B_movie I_movie
+1884,what old movies are made by warner brothers,O O O O O O B_producer I_producer
+1885,i want to look up alfred hitchcock movies,O O O O O B_director I_director O
+1886,find me movies made by alfred hitchcock,O O O O O B_director I_director
+1887,i want to search for alfred hitchcock movies,O O O O O B_director I_director O
+1888,i would like to watch an alfred hitchcock movie,O O O O O O B_director I_director O
+1889,show me some alfred hitchcock movies,O O O B_director I_director O
+1890,look up alfred hitchcock movies,O O B_director I_director O
+1891,movies alfred hitchcock,O B_director I_director
+1892,movies by alfred hitchcock,O O B_director I_director
+1893,movies by alfred hitchcock,O O B_director I_director
+1894,what movies has alfred hitchcock directed,O O O B_director I_director O
+1895,hitchcock movie list,B_director O O
+1896,list hitchcock movies,O B_director O
+1897,movie list hitchcock,O O B_director
+1898,show me hitchcock movies,O O B_director O
+1899,hitchcock movie info,B_director O O
+1900,hitchcock movies,B_director O
+1901,what movies did hitchcock direct,O O O B_director O
+1902,show me the last five films for lionsgate,O O O O O O O B_producer
+1903,show me recent movies from lionsgate,O O O O O B_producer
+1904,what new movies does lionsgate have out,O O O O B_producer O O
+1905,show me the movie vulgaria,O O O O B_movie
+1906,what recently released movies are rated r,O O O O O O B_mpaa_rating
+1907,get me a list of current r-rated movies,O O O O O O B_mpaa_rating O
+1908,show a list of recent releases that are rated pg,O O O O O O O O O B_mpaa_rating
+1909,what are some recent released pg movies,O O O O O B_mpaa_rating O
+1910,show recent movies rated pg,O O O O B_mpaa_rating
+1911,will you show me a list of recent movies rated pg,O O O O O O O O O O B_mpaa_rating
+1912,which current movies are rated pg,O O O O O B_mpaa_rating
+1913,do you have anything by george cukor,O O O O O B_director I_director
+1914,what was the first movie steven spielberg directed,O O O O O B_director I_director O
+1915,did rob reiner direct any movies,O B_director I_director O O O
+1916,what was the highest making movie,O O O O O O
+1917,show me high grossing movies,O O O O O
+1918,what movies made the most money,O O O O O O
+1919,what are the top grossing movies,O O O O O O
+1920,find the new will ferrell movie,O O O B_person I_person O
+1921,what are the three latest films with will ferrell,O O O O O O O B_cast I_cast
+1922,what are recent films by will ferrell,O O O O O B_cast I_cast
+1923,any new movies with eddie murphy,O O O O B_cast I_cast
+1924,i would like to look for movies about god,O O O O O O O O B_subject
+1925,look up movies about god,O O O O B_subject
+1926,i want to look for movies about god,O O O O O O O B_subject
+1927,please search for movies about god,O O O O O B_subject
+1928,watch ron howard's latest movie,O B_director I_director O O O
+1929,find ron howard new movie,O B_director I_director O O
+1930,i need a list of movies produced by ray stark,O O O O O O O O B_producer I_producer
+1931,show me all movies produced by ray stark,O O O O O O B_producer I_producer
+1932,what movies has ray stark produced,O O O B_producer I_producer O
+1933,what movie has albert brooks done lately,O O O B_person I_person O O
+1934,recent movies by steven spielberg,O O O B_director I_director
+1935,find sandra bullock's latest movie,O B_person I_person O O O
+1936,i am looking for movies directed by tom hanks,O O O O O O O B_director I_director
+1937,find movies directed by tom hanks,O O O O B_director I_director
+1938,show me movies that tom hanks directed,O O O O B_director I_director O
+1939,movies by tom hanks,O O B_director I_director
+1940,show me a list of all movies that were directed by tom hanks,O O O O O O O O O O O B_director I_director
+1941,what movie made the least money,O O O O O O
+1942,what has tom cruise acted in lately,O O B_person I_person O O O
+1943,what new movies are playing with rating of pg thirteen,O O O O O O O O B_mpaa_rating I_mpaa_rating
+1944,show me a list of movies that are new and rated pg-13,O O O O O O O O O O O B_mpaa_rating
+1945,what pg-13 movies are currently showing,O B_mpaa_rating O O O O
+1946,what other movies has will smith directed,O O O O B_director I_director O
+1947,show me the latest movies in kannada,O O O O O O B_language
+1948,have any new movies by twentieth century fox,O O O O O B_producer I_producer I_producer
+1949,current movie suggestions,O O O
+1950,show me new releases,O O O O
+1951,see ed harris last movie,O B_person I_person O O
+1952,give me a list of recent horror films,O O O O O B_release_year B_genre O
+1953,show me movies in swedish,O O O O B_language
+1954,what was woody allen's last movie,O O B_director I_director O O O
+1955,about in july,O B_movie I_movie
+1956,i want to go to the homepage for in july,O O O O O O O O B_movie I_movie
+1957,i want to view the page on in july,O O O O O O O B_movie I_movie
+1958,i would like to see the main page of in july,O O O O O O O O O B_movie I_movie
+1959,in july information,B_movie I_movie O
+1960,summary of in july,O O B_movie I_movie
+1961,synopsis for in july,O O B_movie I_movie
+1962,was life is beautiful made in italy,O B_movie I_movie I_movie O O B_country
+1963,current movies rated g,O O O B_mpaa_rating
+1964,find all new releases that are rated g,O O O O O O O B_mpaa_rating
+1965,can i have a list of movie production companies,O O O O O O O O O
+1966,who is bruce willis,O O B_person I_person
+1967,producer,O
+1968,i need a movie producer list,O O O O O O
+1969,can i have a list of producers,O O O O O O O
+1970,find me info on emma watson,O O O O B_person I_person
+1971,show me more information about will smith,O O O O O B_person I_person
+1972,will smith bio,B_person I_person O
+1973,i need a list of actors,O O O O O O
+1974,search for actors,O O O
+1975,find actors,O O
+1976,search movie actors,O O O
+1977,movie actors,O O
+1978,display actors in movies,O O O O
+1979,show actors in movies,O O O O
+1980,display biography of actor will ferrell,O O O O B_person I_person
+1981,who is the actor will ferrell,O O O O B_person I_person
+1982,director,O
+1983,find a director,O O O
+1984,find directors,O O
+1985,search directors,O O
+1986,search directors,O O
+1987,movie directors,O O
+1988,give me a list of directors,O O O O O O
+1989,where can i find a director,O O O O O O
+1990,see bill paxton,O B_person I_person
+1991,give me information about elizabeth mcgovern,O O O O B_person I_person
+1992,show me information on darla anderson,O O O O B_person I_person
+1993,can you give me more information about charles,O O O O O O O B_person
+1994,can you tell me more about the producer ray stark,O O O O O O O O B_person I_person
+1995,give me more details about the producer ray stark,O O O O O O O B_person I_person
+1996,i need to know more about the producer ray stark,O O O O O O O O B_person I_person
+1997,show me more information about the producer ray stark,O O O O O O O B_person I_person
+1998,show me information on shelly long,O O O O B_person I_person
+1999,i want to know about clint eastwood,O O O O O B_person I_person
+2000,look for information about charles vidor,O O O O B_person I_person
+2001,search for information about charles vidor,O O O O B_person I_person
+2002,want to see charles vidor,O O O B_person I_person
+2003,who is childs vidor,O O B_person I_person
+2004,find me more information on scorscese,O O O O O B_person
+2005,find the director andrew stanton,O O O B_person I_person
+2006,who is andrew stanton,O O B_person I_person
+2007,see the olsen twins,O O B_person I_person
+2008,can you find more information on albert ruddy,O O O O O O B_person I_person
+2009,search for information about tom cruise,O O O O B_person I_person
+2010,find information about tom cruise,O O O B_person I_person
+2011,look for information about tom cruise,O O O O B_person I_person
+2012,look up information about tom cruise,O O O O B_person I_person
+2013,all about will farrell please,O O B_person I_person O
+2014,bio on will ferrell,O O B_person I_person
+2015,biography for will ferrell,O O B_person I_person
+2016,bring me to will ferrell informaion,O O O B_person I_person O
+2017,bring up a bio on will ferrell,O O O O O B_person I_person
+2018,can you show me information on will ferrell please,O O O O O O B_person I_person O
+2019,display all information on will ferrell,O O O O B_person I_person
+2020,get me bio info for will ferrell,O O O O O B_person I_person
+2021,goto will ferrell biography,O B_person I_person O
+2022,i want information about will ferrell,O O O O B_person I_person
+2023,i want to see will ferrell details,O O O O B_person I_person O
+2024,information about will ferrell,O O B_person I_person
+2025,look for will ferrell,O O B_person I_person
+2026,open a page about will ferrell,O O O O B_person I_person
+2027,please show me information on will ferrell,O O O O O B_person I_person
+2028,search for will ferrell,O O B_person I_person
+2029,show me a bio of will ferrell,O O O O O B_person I_person
+2030,show me will ferrell information,O O B_person I_person O
+2031,show will ferrell information,O B_person I_person O
+2032,who is will ferrell,O O B_person I_person
+2033,who is will ferrell,O O B_person I_person
+2034,who is will ferrell,O O B_person I_person
+2035,will ferrell,B_person I_person
+2036,will ferrell history,B_person I_person O
+2037,will ferrell tidbits,B_person I_person O
+2038,will ferrell's biography,B_person I_person O O
+2039,please run a search on will ferrell and display all info returned,O O O O O B_person I_person O O O O O
+2040,what is terry georges background,O O B_person I_person O
+2041,exhibit all relevant information about the director steven spielberg,O O O O O O O B_person I_person
+2042,show me the bio for the director steven spielberg,O O O O O O O B_person I_person
+2043,who is director steven spielberg,O O O B_person I_person
+2044,show all relevant information about the director steven spielberg,O O O O O O O B_person I_person
+2045,show biography for director steven spielberg,O O O O B_person I_person
+2046,find information about kristen stewart,O O O B_person I_person
+2047,how do i find out information about kristen stewart,O O O O O O O B_person I_person
+2048,learn more about kristen stewart,O O O B_person I_person
+2049,who is kristen stewart,O O B_person I_person
+2050,information on julia roberts,O O B_person I_person
+2051,get me information about spielberg,O O O O B_person
+2052,i want to know about spielberg,O O O O O B_person
+2053,i want to see spielberg's page,O O O O B_person O O
+2054,pull up spielberg,O O B_person
+2055,show me spielberg's info,O O B_person O O
+2056,show me spielberg's main page,O O B_person O O O
+2057,show me the profile of spielberg,O O O O O B_person
+2058,show my spielberg info,O O B_person O
+2059,find me stats about steven spielberg,O O O O B_person I_person
+2060,i need details steven spielberg now,O O O B_person I_person O
+2061,search for steven spielberg,O O B_person I_person
+2062,show me the information for steven spielberg,O O O O O B_person I_person
+2063,stephen spielberg biography,B_person I_person O
+2064,steven spielberg,B_person I_person
+2065,steven spielberg bio,B_person I_person O
+2066,steven spielberg profile page,B_person I_person O O
+2067,what about steven spielberg,O O B_person I_person
+2068,who is steven spielberg,O O B_person I_person
+2069,find info on tom hanks,O O O B_person I_person
+2070,show me information on tom hanks,O O O O B_person I_person
+2071,show tom hanks,O B_person I_person
+2072,information for sally field,O O B_person I_person
+2073,sergio leone,B_person I_person
+2074,i need information on sean connery,O O O O B_person I_person
+2075,tell me about michelle pfiefer,O O O B_person I_person
+2076,i want to learn about charlie sheen,O O O O O B_person I_person
+2077,find information about robert wise,O O O B_person I_person
+2078,robert wise life,B_person I_person O
+2079,search for information about robert wise,O O O O B_person I_person
+2080,director's profiles: hitchcock,O O O B_person
+2081,warner brothers bio,O O O
+2082,alfred hitchcock,B_person I_person
+2083,who is hitchcock,O O B_person
+2084,information for clark gable,O O B_person I_person
+2085,i want information about angelina jolie,O O O O B_person I_person
+2086,i want more information on richard lester,O O O O O B_person I_person
+2087,information for vivian lee,O O B_person I_person
+2088,name the producer of the godfather,O O O O B_movie I_movie
+2089,what is the name of the company that produced sparkle,O O O O O O O O O B_movie
+2090,what is the name of the company that produced the movie ants,O O O O O O O O O O O B_movie
+2091,show me the name of the producer of the movie avatar,O O O O O O O O O O B_movie
+2092,can you show me the name of the producer for cabin in the woods,O O O O O O O O O O I_movie I_movie I_movie I_movie
+2093,what is the name of the company that produced the movie avatar,O O O O O O O O O O O B_movie
+2094,please provide the name of the company that produced sparkle,O O O O O O O O O B_movie
+2095,what is the name of the company that produced the movie inception,O O O O O O O O O O O B_movie
+2096,hitch list producer,B_movie O O
+2097,i want info on how produced hitch,O O O O O O B_movie
+2098,who are the producers for the movie hitch,O O O O O O O B_movie
+2099,who is the producer for hitch,O O O O O B_movie
+2100,who produced hitch,O O B_movie
+2101,who produced hitch,O O B_movie
+2102,who produced hitch,O O B_movie
+2103,who was the producer for the movie hitch,O O O O O O O B_movie
+2104,info hitch producer,O B_movie O
+2105,what production company was responsible for the film the devil wears prada,O O O O O O O O B_movie I_movie I_movie I_movie
+2106,what company produced secretariat,O O O B_movie
+2107,what company produced the movie field of dreams,O O O O O B_movie I_movie I_movie
+2108,what company produced jurassic park,O O O B_movie I_movie
+2109,company that produced iron man,O O O B_movie I_movie
+2110,what company produced cabin in the woods,O O O B_movie I_movie I_movie I_movie
+2111,production company for spiderman,O O O B_movie
+2112,who produced cabin in the woods,O O B_movie I_movie I_movie I_movie
+2113,what was the production company for black swan,O O O O O O B_movie I_movie
+2114,get me the think like a man movie producer,O O O B_movie I_movie I_movie I_movie O O
+2115,who produced cars,O O B_movie
+2116,who produced cars,O O B_movie
+2117,who produced the movie cars,O O O O B_movie
+2118,who produced steel magnolias,O O B_movie I_movie
+2119,who produces steel magnolias,O O B_movie I_movie
+2120,name of producer for ghost busters,O O O O B_movie I_movie
+2121,who produced et,O O B_movie
+2122,who was the producer for elizabeth,O O O O O B_movie
+2123,please show me who produces madagascar,O O O O O B_movie
+2124,look for the producer of heroine,O O O O O B_movie
+2125,producer of heroine,O O B_movie
+2126,can you find the producer of heroine,O O O O O O B_movie
+2127,can you tell me who produced the movie avatar,O O O O O O O O B_movie
+2128,i need to know the movie avatar's producer name,O O O O O O B_movie O O O
+2129,i need to know who produced the movie avatar,O O O O O O O O B_movie
+2130,please tell me who produce the avatar,O O O O O O B_movie
+2131,producer of avatar,O O B_movie
+2132,who is the producer of avatar,O O O O O B_movie
+2133,who produce the avatar,O O O B_movie
+2134,who produced avatar,O O B_movie
+2135,who produced avatar,O O B_movie
+2136,who produced avatar,O O B_movie
+2137,who produced avatar,O O B_movie
+2138,who produced avatar with james cameron,O O B_movie O B_person I_person
+2139,who is listed as producer of grease,O O O O O O B_movie
+2140,who is the producer of grease,O O O O O B_movie
+2141,browse lionsgate information,O B_producer O
+2142,display production company lionsgate,O O O B_producer
+2143,get info on lionsgate,O O O B_producer
+2144,goto lionsgate,O B_producer
+2145,i would like more information about lionsgate,O O O O O O B_producer
+2146,look for information about lionsgate,O O O O B_producer
+2147,see lionsgate info,O B_producer O
+2148,show lionsgate,O B_producer
+2149,company that produced the avengers,O O O B_movie I_movie
+2150,show who produced black swan,O O O B_movie I_movie
+2151,who produced black swan,O O B_movie I_movie
+2152,who produced spaceballs,O O B_movie
+2153,find the producer of the godfather,O O O O B_movie I_movie
+2154,show me the producer of the godfather,O O O O O B_movie I_movie
+2155,who is the producer of the godfather,O O O O O B_movie I_movie
+2156,who produced the godfather,O O B_movie I_movie
+2157,who produced the godfather,O O B_movie I_movie
+2158,who produced the godfather,O O B_movie I_movie
+2159,who produced the godfather movies,O O B_movie I_movie O
+2160,producer for slumdog millionaire,O O B_movie I_movie
+2161,company that produced thor,O O O B_movie
+2162,what company produced days of thunder,O O O B_movie I_movie I_movie
+2163,i want to look for information about paramount studios,O O O O O O O B_producer O
+2164,look for information about paramount studios,O O O O B_producer O
+2165,what is the history behind paramount,O O O O O B_producer
+2166,look at paramount,O O B_producer
+2167,who produced hotel rwanda,O O B_movie I_movie
+2168,who produced the movie hotel rwanda,O O O O B_movie I_movie
+2169,who produced titanic,O O B_movie
+2170,company that produced twilight,O O O B_movie
+2171,producer for ms. congeniality,O O B_movie I_movie
+2172,who produced top gun,O O B_movie I_movie
+2173,what production company produced the movie avatar,O O O O O O B_movie
+2174,what studio made the dark knight,O O O B_movie I_movie I_movie
+2175,what company produced the hangover,O O O B_movie I_movie
+2176,who produced the devil wears prada,O O B_movie I_movie I_movie I_movie
+2177,i d like to know who the producer of the terminator is,O O O O O O O O O B_movie I_movie O
+2178,i wonder who produced the terminator,O O O O B_movie I_movie
+2179,who is the producer of the terminator,O O O O O B_movie I_movie
+2180,find producer of the great debaters,O O O B_movie I_movie I_movie
+2181,who produced the great debaters,O O B_movie I_movie I_movie
+2182,who produced the movie twilight,O O O O B_movie
+2183,production company for the hulk,O O O O B_movie
+2184,can i see who produced possesion,O O O O O B_movie
+2185,who produced possesion,O O B_movie
+2186,find the producer of moby dick,O O O O B_movie I_movie
+2187,producer for the passion of the christ,O O B_movie I_movie I_movie I_movie I_movie
+2188,who produced what to expect when you're expecting,O O B_movie I_movie I_movie I_movie I_movie I_movie I_movie
+2189,what company is the producer of inception,O O O O O O B_movie
+2190,who produced the movie the dark knight,O O O O B_movie I_movie I_movie
+2191,who produced lion king,O O B_movie I_movie
+2192,i would like to find the producers of the lion king,O O O O O O O O B_movie I_movie I_movie
+2193,what company produced sparkle,O O O B_movie
+2194,which company produced the terminator,O O O B_movie I_movie
+2195,who produced casino royale,O O B_movie I_movie
+2196,search mgm studios,O B_producer O
+2197,who was the producer for the amazing spiderman,O O O O O B_movie I_movie I_movie
+2198,in the movie ants who is the producer,O O O B_movie O O O O
+2199,the movie ants was produced by what person,O O B_movie O O O O O
+2200,the producers for the movie ants,O O O O O B_movie
+2201,who is the producer for the movie ants,O O O O O O O B_movie
+2202,find the producer of gone with the wind,O O O O B_movie I_movie I_movie I_movie
+2203,producer for gone with the wind,O O B_movie I_movie I_movie I_movie
+2204,who produced the movie gone with the wind,O O O O B_movie I_movie I_movie I_movie
+2205,who produced the movie,O O O O
+2206,who produced the movie,O O O O
+2207,who produced this movie,O O O O
+2208,search for the producer of mirror,O O O O O B_movie
+2209,who was mirror s producer,O O B_movie O O
+2210,person produced the blind side,O O B_movie I_movie I_movie
+2211,who was the producer for coming to america,O O O O O B_movie I_movie I_movie
+2212,search for the producer of step up,O O O O O B_movie I_movie
+2213,goto warner brothers,O B_producer I_producer
+2214,pixar film studio,B_producer O O
+2215,look up the producer of freedom writers,O O O O O B_movie I_movie
+2216,who produced godfather,O O B_movie
+2217,who produced the godfather,O O O B_movie
+2218,show producers who work for miramax,O O O O O B_producer
+2219,what type of audience can watch cars,O O O O O O B_movie
+2220,is toy story for kids,O B_movie I_movie O O
+2221,rating of movie,O O O
+2222,what is movie rated,O O O O
+2223,show me the rating for the movie,O O O O O O O
+2224,what is the mpaa rating for movie,O O O O O O O
+2225,what is the reccommended audience for movie,O O O O O O O
+2226,can i see this film rating,O O O O O O
+2227,what is the parental rating on this movie,O O O O O O O O
+2228,what is the rating of movie,O O O O O O
+2229,movie rating,O O
+2230,what rating did the dark knight rises receive,O O O B_movie I_movie I_movie I_movie O
+2231,what is the rating for dark knight,O O O O O B_movie I_movie
+2232,rating for dark knight,O O B_movie I_movie
+2233,can you tell me whats the rating of movie avatar,O O O O O O O O O B_movie
+2234,i need to know the rating of the movie avatar,O O O O O O O O O B_movie
+2235,show me the rating of the movie avatar,O O O O O O O B_movie
+2236,what is the rating for the movie ants,O O O O O O O B_movie
+2237,is hotel transylavania good for adults,O B_movie I_movie O O O
+2238,show me the rating for the movie the lord of rings,O O O O O O O B_movie I_movie I_movie I_movie
+2239,what age is marley and me appropriate,O O O B_movie I_movie I_movie O
+2240,how old should a person be to watch marley and me,O O O O O O O O B_movie I_movie I_movie
+2241,what age is appropriate to watch marley and me,O O O O O O B_movie I_movie I_movie
+2242,what rating is superman,O O O B_movie
+2243,rating for transylvania,O O B_movie
+2244,tell me the rating of the movie grease,O O O O O O O B_movie
+2245,what is grease rated,O O B_movie O
+2246,tell me the rating of the film grease,O O O O O O O B_movie
+2247,what is the appropriate age for clueless,O O O O O O B_movie
+2248,what is the rating of dirty dancing,O O O O O B_movie I_movie
+2249,what is the rating for dirty dancing,O O O O O B_movie I_movie
+2250,what rating is freedom writers,O O O B_movie I_movie
+2251,what is the rating for house at the end of the street,O O O O O B_movie I_movie I_movie I_movie I_movie I_movie I_movie
+2252,what ratings does the house at the end of the street hold,O O O O B_movie I_movie I_movie I_movie I_movie I_movie I_movie O
+2253,is it appropriate to take my 16 year old to see land of the lost,O O O O O O O O O O O B_movie I_movie I_movie I_movie
+2254,is the movie life is beautiful ok for my six year old to watch,O O O B_movie I_movie I_movie O O O O O O O O
+2255,find the rating of the movie step up,O O O O O O B_movie I_movie
+2256,rating for the green hornet,O O B_movie I_movie I_movie
+2257,show me the film rating for avengers,O O O O O O B_movie
+2258,show rating for the film avengers,O O O O O B_movie
+2259,show rating of movie avengers,O O O O B_movie
+2260,what is the rating for the avenger movie,O O O O O B_movie I_movie O
+2261,rating for the avengers,O O B_movie I_movie
+2262,what is jurassic park rated,O O B_movie I_movie O
+2263,list movie ratings for us movie looper,O O O O B_country O B_movie
+2264,show movie ratings for us movie looper,O O O O B_country O B_movie
+2265,what audience will watch black swan,O O O O B_movie I_movie
+2266,how is a good man in africa's rating,O O B_movie I_movie I_movie I_movie I_movie O O
+2267,can i take my 13 year old to see american pie,O O O O O O O O O B_movie I_movie
+2268,how old for black swan,O O O B_movie I_movie
+2269,what age is black swan appropriate for,O O O B_movie I_movie O O
+2270,can you tell me the rating for cabin in the woods,O O O O O O O B_movie I_movie I_movie I_movie
+2271,i would like to know the rating for cabin in the woods,O O O O O O O O B_movie I_movie I_movie I_movie
+2272,kindly show me the rating for cabin in the woods,O O O O O O B_movie I_movie I_movie I_movie
+2273,show me the rating for cabin in the woods,O O O O O B_movie I_movie I_movie I_movie
+2274,rating for resident evil,O O B_movie I_movie
+2275,show me the rating for the movie romeo must die,O O O O O O O B_movie I_movie I_movie
+2276,what's the rating for satyricon,O O O O O B_movie
+2277,what restrictions does the campaign film have for viewers,O O O B_movie I_movie O O O O
+2278,what is the rating for the movie the campaign,O O O O O O O B_movie I_movie
+2279,show me the rating for the movie the expendables 2,O O O O O O O B_movie I_movie I_movie
+2280,show me the rating for the movie the mechanic,O O O O O O O B_movie I_movie
+2281,can you find out what the movie dredd is rated,O O O O O O O B_movie O O
+2282,look up the rating for the movie dredd,O O O O O O O B_movie
+2283,search for the rating of the movie dredd,O O O O O O O B_movie
+2284,what is the movie rating for die hard,O O O O O O B_movie I_movie
+2285,twilight revenue,B_movie O
+2286,what was the gross profit for twilight,O O O O O O B_movie
+2287,how much did et gross worldwide,O O O B_movie O O
+2288,what did et gross,O O B_movie O
+2289,what were et's revenues,O O B_movie O O
+2290,can you tell me about the revenue generated by the movie avatar,O O O O O O O O O O O B_movie
+2291,how much money did avatar make,O O O O B_movie O
+2292,how much revenue did the movie avatar generate,O O O O O O B_movie O
+2293,tell me about the revenue generated by the movie avatar,O O O O O O O O O B_movie
+2294,how much money did pretty woman take in,O O O O B_movie I_movie O O
+2295,revenue for pretty woman,O O B_movie I_movie
+2296,gross earnings for avengers movie,O O O B_movie O
+2297,ticket sales for the movie avengers,O O O O O B_movie
+2298,what was the gross earnings for the avengers movie,O O O O O O B_movie I_movie O
+2299,how much revenue did the avengers take it,O O O O B_movie I_movie O O
+2300,what were the gross receipts for the avengers,O O O O O O B_movie I_movie
+2301,can you give me the revenue of the movie titanic,O O O O O O O O O B_movie
+2302,how much revenue did titanic make,O O O O B_movie O
+2303,profits made by titanic,O O O B_movie
+2304,revenue for titanic,O O B_movie
+2305,revenue for titanic,O O B_movie
+2306,total titanic revenues,O B_movie O
+2307,what was the revenue for toy story 3,O O O O O B_movie I_movie I_movie
+2308,dark knight revenue,B_movie I_movie O
+2309,how much did the dark night generate,O O O B_movie I_movie I_movie O
+2310,can i see the lion king's revenue,O O O B_movie I_movie I_movie O O
+2311,can i see what the lion king's revenue was,O O O O B_movie I_movie I_movie O O O
