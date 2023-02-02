@@ -1,7 +1,11 @@
-# Named-Entity-Recognition
+### Named Entity Recognition on movie related search queries
 
-Named Entity Recognition on movie related search queries. </br>
+I utilized PyTorch to implement advanced natural language processing techniques of relation extraction and named entity recognition. 
+<br /><br />
+Specifically, I created a Multilayer Perceptron model to identify knowledge graph relations within user queries related to movies and a Bidirectional LSTM model for classifying and tagging each token in the text with its corresponding movie-related category.
+<br /><br />
+Through this process, I was able to achieve an F-1 score of 0.81 on the relation extraction model and 0.85 on the named entity recognition model.
 
-Example </br>
-show me movies directed by Woody       Allen       recently. </br>
-O    O  O      O        O  B_director  I_director  B_release_year
+
+[Multilabel classification model](https://github.com/surely-zoe/Relation-Extraction-Pytorch)
+
